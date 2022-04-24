@@ -1,8 +1,5 @@
 - id: doi:10.1099/mgen.0.000805
   image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/8/4/mgen000805-f4.gif
-  extra-links:
-    - type: website
-      link: https://www.lstmed.ac.uk
   tags:
     - Wolbachia
     - Anopheles
