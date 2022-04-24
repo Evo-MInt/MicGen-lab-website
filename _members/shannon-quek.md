@@ -9,6 +9,7 @@ aliases:
 links:
   home-page: shannonquek.com
   email: shannon.quek@lstmed.ac.uk
+  orcid: 0000-0002-1583-9541
   twitter: SQuek_001
 ---
 
