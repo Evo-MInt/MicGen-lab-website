@@ -70,7 +70,7 @@ As we are a computational lab, we try to make any tools we produce publicly avai
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Pipeline_Gal.gif"
   link="resources"
   title="Our Resources"
   flip=true
