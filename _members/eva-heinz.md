@@ -2,7 +2,7 @@
 name: Eva Heinz
 image: images/member.jpg
 description: Team Leader
-role: Principal Investigator
+role: pi
 aliases:
   - E. Heinz
   - EH
