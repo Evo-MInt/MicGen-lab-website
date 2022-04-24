@@ -9,7 +9,8 @@ aliases:
 links:
   home-page: vishaaldhokyia.com
   email: vish.dhokyia@lstmed.ac.uk
-  github: LSTM-Microbial-Genomics
+  orcid: 0000-0002-7733-1356
+  twitter: vectorvish
 ---
 
 Vish joined us in 2021 working on mosquito microbiomes and running our in-house MiSeq.
