@@ -49,7 +49,7 @@ Our research focuses on bacterial interactions with their hosts, considering bot
 
 {%
   include feature.html
-  image="images/41598_2019_38943_Fig5_HTML.jpg"
+  image="images/canvas.png"
   link="research"
   title="Our Research"
   text=text
@@ -70,7 +70,7 @@ As we are a computational lab, we try to make any tools we produce publicly avai
 
 {%
   include feature.html
-  image="images/Pipeline_Gal.gif"
+  image="images/resource.png"
   link="resources"
   title="Our Resources"
   flip=true
