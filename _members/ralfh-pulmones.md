@@ -1,6 +1,6 @@
 ---
 name: Ralfh Pulmones
-image: images/member.jpg
+image: images/Ralfh.jpg
 description: PhD student
 role: phd
 aliases:
