@@ -17,7 +17,7 @@
 - id: doi:10.1099/mgen.0.000778
   image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/8/3/mgen000778-f5.gif
   tags:
-    - AMR
+    - Antimicrobial Resistance
     - Klebsiella
     - Sub-saharan Africa
     - Surface Polysaccharides
@@ -32,3 +32,30 @@
     - Research Integrity
     - Parachute Research
     
+- id: doi:10.1099/mgen.0.000722
+  image: https://www.lstmed.ac.uk/sites/default/files/styles/mc-580-16x9-node/public/content/news-articles/images/image_0_0_0.png?itok=Kw5zGK1k
+  tags:
+    - Research Integrity
+    - Parachute Research
+    
+- id: doi:10.1371/journal.pgen.1009970
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=medium&id=10.1371/journal.pgen.1009970.g004
+  tags:
+    - Insecticide Resistance
+    - Anopheles
+
+- id: doi:10.1111/anae.15597
+  image: https://www.lstmed.ac.uk/sites/default/files/styles/mc-580-16x9-node/public/content/news-articles/images/image_0_0_0.png?itok=Kw5zGK1k
+  extra-links:
+    - type: journal
+      link: https://www.lstmed.ac.uk/news-events/news/lstm-researchers-collaborate-in-multi-country-consensus-statement-to-promote
+      text: LSTM press release
+  tags:
+    - Research Integrity
+    - Parachute Research
+    
+- id: doi:10.1371/journal.pgen.1009586
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=medium&id=10.1371/journal.pgen.1009586.g011
+  tags:
+    - Bacterial Cell Envelope
+    - Surface Proteins
