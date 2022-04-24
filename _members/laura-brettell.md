@@ -9,6 +9,8 @@ aliases:
 links:
   home-page: laurabrettell.com
   email: laura.brettell@lstmed.ac.uk
+  orcid: 0000-0002-6050-4804
+  twitter: laura_brettell
   github: LSTM-Microbial-Genomics
 ---
 
