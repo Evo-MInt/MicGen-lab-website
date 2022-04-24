@@ -4,8 +4,8 @@ image: images/member.jpg
 description: Bark Ops Engineer
 role: Principal Investigator
 aliases:
-  - A. Chovie
-  - A Chovie
+  - E. Heinz
+  - EH
 links:
   home-page: evaheinz.com
   email: eva.heinz@lstmed.ac.uk
