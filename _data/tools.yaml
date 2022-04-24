@@ -1,12 +1,12 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: MINUUR
+  subtitle: MInUUR - Microbial INsight Using Unmapped Reads
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/aidanfoo96/MINUUR
+  description: MInUUR is a snakemake pipeline to extract unmapped whole genome shotgun sequencing reads and utilise a range of metagenomic analyses to characterise host-associated microbes. Orginally, MInUUR was intended to be used for the extraction of mosquito-associated bacterial symbionts, however, its application can be applied to other host-associated WGS data. MInUUR aims to leverage pre-existing WGS data to 'scavenge' for microbial information pertaining to host associated microbiomes - the key advantage being metagenomic reads as inputs to produce genus & species level classifications, functional inference and assembly of metagenome assembled genomes (MAGs).
+  repo: aidanfoo96/MINUUR
   tags:
-    - resource
+    - software
 
 - title: Cool Package
   subtitle: a subtitle
