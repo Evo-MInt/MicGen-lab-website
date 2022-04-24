@@ -72,8 +72,6 @@
     link: https://doi.org/10.7287/peerj.preprints.3100v1
   - type: manubot
     link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
     text: Manuscript source
   - type: source
     link: https://github.com/greenelab/scihub
