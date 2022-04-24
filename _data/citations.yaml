@@ -23,24 +23,33 @@
   tags:
   - Wolbachia
   - Anopheles
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1099/mgen.0.000789
+  title: Piperacillin/tazobactam-resistant, cephalosporin-susceptible Escherichia
+    coli bloodstream infections are driven by multiple acquisition of resistance across
+    diverse sequence types
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
+  - Thomas Edwards
+  - Eva Heinz
+  - Jon van Aartsen
+  - Alex Howard
+  - Paul Roberts
+  - Caroline Corless
+  - Alice J. Fraser
+  - Christopher T. Williams
+  - Issra Bulgasim
+  - Luis E. Cuevas
+  - Christopher M. Parry
+  - Adam P. Roberts
+  - Emily R. Adams
+  - Jenifer Mason
+  - Alasdair T. M. Hubbard
+  publisher: Microbial Genomics
+  date: '2022-04-11'
+  link: https://doi.org/gpzk23
+  image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/8/4/mgen000805-f4.gif
   extra-links:
   - type: manubot
-    link: https://greenelab.github.io/meta-review/
+    link: https://www.lstmed.ac.uk/news-events/news/researchers-from-lstm-complete-analysis-of-wolbachia-bacterial-endosymbiont-strains
   - type: source
     link: https://github.com/greenelab/meta-review
   - type: website
