@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is based in the Liverpool school of Tropical Medicine [Liverpool School of Tropical Medicine](https://www.lstmed.ac.uk/) in the Departments of [Vector Biology](https://www.lstmed.ac.uk/research/departments/vector-biology) and [Clinical Sciences](https://www.lstmed.ac.uk/research/departments/clinical-sciences).
+Our lab is based in the [Liverpool School of Tropical Medicine](https://www.lstmed.ac.uk/) in the Departments of [Vector Biology](https://www.lstmed.ac.uk/research/departments/vector-biology) and [Clinical Sciences](https://www.lstmed.ac.uk/research/departments/clinical-sciences).
 Our team members are currently based in Liverpool, Blantyre (Malawi) and Kisumu (Kenya).
 
 {%
