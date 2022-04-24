@@ -3,9 +3,9 @@
 # site properties and page defaults
 title: Heinz Lab - Microbial Genomics
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
+logo: images/IMG_0552.jpg
+header: images/Dik-Dik.jpg
+footer: images/Dik-Dik.jpg
 baseurl: /MicGen-lab-website
 
 # site social media and other links
