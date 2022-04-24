@@ -92,7 +92,7 @@ CDC funding: CDC CoAg 2021-2026 Advancing Public Health Research in Kenya, to a 
   link5="https://daphnejackson.org/"
   tooltip5="Daphne Jackson Trust"
 
-  #image6="images/photo.jpg"
-  #link6="https://nasa.gov/"
-  #tooltip6="Cool Initiative"
+  image6="images/photo.jpg"
+  link6="https://nasa.gov/"
+  tooltip6="Cool Initiative"
 %}
