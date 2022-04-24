@@ -1,6 +1,6 @@
 ---
 name: Cintia Cansado-Utrilla
-image: images/cintia.jpg
+image: images/Cintia.jpg
 description: PhD student
 role: phd
 aliases:
