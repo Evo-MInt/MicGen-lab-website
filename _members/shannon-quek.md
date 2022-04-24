@@ -2,7 +2,7 @@
 name: Shannon Quek
 image: images/member.jpg
 description: PostDoc
-role: postdoc
+role: programmer
 aliases:
   - S. Quek
   - Quek
