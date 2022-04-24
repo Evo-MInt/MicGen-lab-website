@@ -74,7 +74,7 @@
   link: https://doi.org/gpzk5p
   image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/8/3/mgen000778-f5.gif
   tags:
-  - AMR
+  - Antimicrobial Resistance
   - Klebsiella
   - Sub-saharan Africa
   - Surface Polysaccharides
@@ -107,3 +107,107 @@
   tags:
   - Research Integrity
   - Parachute Research
+- id: doi:10.1099/mgen.0.000722
+  title: Addressing parachute research and removing barriers for LMIC researchers
+    in Microbial Genomics
+  authors:
+  - Eva Heinz
+  - Kathryn E. Holt
+  - Conor J. Meehan
+  - Samuel K. Sheppard
+  publisher: Microbial Genomics
+  date: '2021-10-27'
+  link: https://doi.org/gpzmgn
+  image: https://www.lstmed.ac.uk/sites/default/files/styles/mc-580-16x9-node/public/content/news-articles/images/image_0_0_0.png?itok=Kw5zGK1k
+  tags:
+  - Research Integrity
+  - Parachute Research
+- id: doi:10.1371/journal.pgen.1009970
+  title: Integration of whole genome sequencing and transcriptomics reveals a complex
+    picture of the reestablishment of insecticide resistance in the major malaria
+    vector Anopheles coluzzii
+  authors:
+  - Victoria A. Ingham
+  - Jacob A. Tennessen
+  - Eric R. Lucas
+  - Sara Elg
+  - Henrietta Carrington Yates
+  - Jessica Carson
+  - Wamdaogo Moussa Guelbeogo
+  - "N\u2019Fale Sagnon"
+  - Grant L. Hughes
+  - Eva Heinz
+  - Daniel E. Neafsey
+  - Hilary Ranson
+  publisher: PLOS Genetics
+  date: '2021-12-23'
+  link: https://doi.org/gpzmgp
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=medium&id=10.1371/journal.pgen.1009970.g004
+  tags:
+  - Insecticide Resistance
+  - Anopheles
+- id: doi:10.1111/anae.15597
+  title: Consensus statement on measures to promote equitable authorship in the publication
+    of research from international partnerships
+  authors:
+  - B. Morton
+  - A. Vercueil
+  - R. Masekela
+  - E. Heinz
+  - L. Reimer
+  - S. Saleh
+  - C. Kalinga
+  - M. Seekles
+  - B. Biccard
+  - J. Chakaya
+  - S. Abimbola
+  - A. Obasi
+  - N. Oriyo
+  publisher: Anaesthesia
+  date: '2021-10-14'
+  link: https://doi.org/gnzjzw
+  image: https://www.lstmed.ac.uk/sites/default/files/styles/mc-580-16x9-node/public/content/news-articles/images/image_0_0_0.png?itok=Kw5zGK1k
+  extra-links:
+  - type: journal
+    link: https://www.lstmed.ac.uk/news-events/news/lstm-researchers-collaborate-in-multi-country-consensus-statement-to-promote
+    text: LSTM press release
+  tags:
+  - Research Integrity
+  - Parachute Research
+- id: doi:10.1371/journal.pgen.1009586
+  title: Loss of YhcB results in dysregulation of coordinated peptidoglycan, LPS and
+    phospholipid synthesis during Escherichia coli cell growth
+  authors:
+  - Emily C. A. Goodall
+  - Georgia L. Isom
+  - Jessica L. Rooke
+  - Karthik Pullela
+  - Christopher Icke
+  - Zihao Yang
+  - Gabriela Boelter
+  - Alun Jones
+  - Isabel Warner
+  - Rochelle Da Costa
+  - Bing Zhang
+  - James Rae
+  - Wee Boon Tan
+  - Matthias Winkle
+  - Antoine Delhaye
+  - Eva Heinz
+  - Jean-Francois Collet
+  - Adam F. Cunningham
+  - Mark A. Blaskovich
+  - Robert G. Parton
+  - Jeff A. Cole
+  - Manuel Banzhaf
+  - Shu-Sin Chng
+  - Waldemar Vollmer
+  - Jack A. Bryant
+  - Ian R. Henderson
+  publisher: PLOS Genetics
+  date: '2021-12-23'
+  link: https://doi.org/gpzmgq
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=medium&id=10.1371/journal.pgen.1009586.g011
+  tags:
+  - Bacterial Cell Envelope
+  - Surface Proteins
