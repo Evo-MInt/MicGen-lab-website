@@ -2,7 +2,7 @@
 name: Naomi A. Dyer
 image: images/member.jpg
 description: Daphne-Jackson Fellow
-role: programmer
+role: postdoc
 aliases:
   - N. Dyer
   - N. A. Dyer
