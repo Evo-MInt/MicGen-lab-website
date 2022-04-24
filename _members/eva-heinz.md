@@ -5,7 +5,7 @@ description: Team Leader
 role: pi
 aliases:
   - E. Heinz
-  - EH
+  - Heinz
 links:
   home-page: evaheinz.com
   email: eva.heinz@lstmed.ac.uk
