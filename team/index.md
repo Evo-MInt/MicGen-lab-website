@@ -56,7 +56,16 @@ At the moment we do not have open positions, but please keep an eye out on the L
 
 ## Funding
 
-We are very grateful to our funders, who make all this possible.
+We are very grateful to our funders, who make all this possible. 
+
+The Wellcome Trust: Wellcome SEED Award, 2019-2022. Looking for the Achilles heel: understanding the role of intrinsic and acquired determinants of antimicrobial resistance in the rise and fall of Klebsiella pneumoniae lineages as the first step in exploiting the fitness cost of antimicrobial resistance. 217303/Z/19/Z. (PI Eva Heinz).
+
+Bill & Melinda Gates Foundation: BMGF, 2020-2022. Sequencing Klebsiella pneumoniae isolates from Chatinkha neonatal unit. INV-005180. (PI Nick Feasey, Co-I Eva Heinz).
+
+UKRI: BBSRC-NSF, 2020-2025. Bacterial and host genetic factors contributing to microbiome acquisition and homeostasis in mosquitoes. V011278/1. (BBSRC PI Eva Heinz; NSF PI (joint award) Kerri Coon University of Wisconsin-Madison, Co-I BBSRC Grant Hughes).
+
+CDC funding: CDC CoAg 2021-2026 Advancing Public Health Research in Kenya, to a consortium of KEMRI, Washington State University & LSTM; GH21-003. (Eva Heinz is Co-I & lead of work package 2E, lead PI LSTM Feiko terKuile). 
+
 {:.center}
 
 {%
