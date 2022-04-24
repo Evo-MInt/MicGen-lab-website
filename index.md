@@ -49,7 +49,7 @@ Our research focuses on bacterial interactions with their hosts, considering bot
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/41598_2019_38943_Fig5_HTML.jpg"
   link="research"
   title="Our Research"
   text=text
