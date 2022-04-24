@@ -9,6 +9,8 @@ aliases:
 links:
   home-page: evaheinz.com
   email: eva.heinz@lstmed.ac.uk
+  orcid: 0000-0003-4413-3756
+  twitter: evaheinz7
   github: LSTM-Microbial-Genomics
 ---
 
