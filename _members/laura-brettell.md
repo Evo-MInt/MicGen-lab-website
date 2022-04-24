@@ -1,6 +1,6 @@
 ---
 name: Laura Brettell
-image: images/member.jpg
+image: images/laura.jpg
 description: PostDoc
 role: programmer
 aliases:
