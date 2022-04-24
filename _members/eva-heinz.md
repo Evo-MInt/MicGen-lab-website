@@ -1,6 +1,6 @@
 ---
 name: Eva Heinz
-image: images/member.jpg
+image: images/eh10.jpg
 description: Team Leader
 role: pi
 aliases:
