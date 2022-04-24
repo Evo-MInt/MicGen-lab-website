@@ -7,7 +7,7 @@ aliases:
   - V. Dhokyia
   - Dhokyia
 links:
-  home-page: vishaaldhokyia.com
+  home-page: vishaal-dhokyia.com
   email: vish.dhokyia@lstmed.ac.uk
   orcid: 0000-0002-7733-1356
   twitter: vectorvish
