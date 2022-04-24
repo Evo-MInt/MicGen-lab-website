@@ -2,10 +2,11 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Microbial Genomics in Liverpool
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+This website gives you an overview of the team of Microbial Genomics in Liverpool, which was born in 2019 when Eva joined LSTM in her first independent position after 10 years of post-doccing and travelling the planet. 
+
+We are very grateful to the [greene lab](https://www.greenelab.com/) for providing this easy-to-use template [Lab Website Template](https://github.com/greenelab/lab-website-template), which forms the basis for our website and made our lives a lot easier!
 
 {%
   include link.html
@@ -34,8 +35,7 @@ Spend less time reinventing the wheel, and more time running your lab.
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research focuses on bacterial interactions with their hosts, considering both pathogens and symbionts across a range of projects anchored in clinical microbiology and in vector biology.
 
 {%
   include link.html
@@ -56,8 +56,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+As we are a computational lab, we try to make any tools we produce publicly available and easy-to-use. Please take a look and let us know what experiences you have!
 
 {%
   include link.html
@@ -79,7 +78,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a friendly and enthusiastic group of people, if you want to know a bit more about who is currently part of our team, this is us!
 
 {%
   include link.html
@@ -99,5 +98,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
