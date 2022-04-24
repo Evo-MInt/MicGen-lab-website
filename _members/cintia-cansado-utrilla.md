@@ -7,7 +7,7 @@ aliases:
   - C. Cansado-Utrilla
   - Cansado-Utrilla
 links:
-  home-page: cintiacansadoutrilla.com
+  home-page: cintia-cansado-utrilla.com
   email: Cintia.Cansado-Utrilla@lstmed.ac.uk
   twitter: CintiaCansado
 ---
