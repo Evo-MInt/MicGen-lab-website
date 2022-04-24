@@ -1,6 +1,6 @@
 ---
 name: Allan Zuza
-image: images/member.jpg
+image: images/Allan.jpg
 description: Research Assistant
 role: programmer
 aliases:
