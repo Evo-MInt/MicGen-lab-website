@@ -28,7 +28,7 @@ We are very grateful to the [greene lab](https://www.greenelab.com/) for providi
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/Malawi_hike.jpg" %}
 
 {% include section.html %}
 
@@ -92,9 +92,9 @@ We are a friendly and enthusiastic group of people, if you want to know a bit mo
 
 {%
   include feature.html
-  image="images/GiantMicrobes.jpg"
+  image="images/Dik-Dik.jpeg"
   link="team"
-  title="Our Team - Placeholder Image credit GiantMicrobes"
+  title="Our Team"
   text=text
 %}
 
