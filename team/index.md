@@ -68,31 +68,3 @@ CDC funding: CDC CoAg 2021-2026 Advancing Public Health Research in Kenya, to a 
 
 {:.center}
 
-{%
-  include gallery.html
-  style="square"
-
-  image1="images/cdc.jpg"
-  link1="https://www.cdc.gov/funding/index.html"
-  tooltip1="CDC"
-
-  image2="images/wellcome.jpg"
-  link2="https://wellcome.org/grant-funding"
-  tooltip2="Wellcome"
-
-  image3="images/BMGF.jpg"
-  link3="https://www.gatesfoundation.org/about/how-we-work/grant-opportunities"
-  tooltip3="BMGF"
-
-  image4="images/bbsrc.jpg"
-  link4="https://www.ukri.org/councils/bbsrc/"
-  tooltip4="BBSRC"
-
-  image5="images/djt.jpg"
-  link5="https://daphnejackson.org/"
-  tooltip5="Daphne Jackson Trust"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
-%}
