@@ -72,27 +72,27 @@ CDC funding: CDC CoAg 2021-2026 Advancing Public Health Research in Kenya, to a 
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/cdc.jpg"
+  link1="https://www.cdc.gov/funding/index.html"
+  tooltip1="CDC"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  image2="images/wellcome.jpg"
+  link2="https://wellcome.org/grant-funding"
+  tooltip2="Wellcome"
 
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
+  image3="images/BMGF.jpg"
+  link3="https://www.gatesfoundation.org/about/how-we-work/grant-opportunities"
+  tooltip3="BMGF"
 
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
+  image4="images/bbsrc.jpg"
+  link4="https://www.ukri.org/councils/bbsrc/"
+  tooltip4="BBSRC"
 
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
+  image5="images/djt.jpg"
+  link5="https://daphnejackson.org/"
+  tooltip5="Daphne Jackson Trust"
 
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
+  #image6="images/photo.jpg"
+  #link6="https://nasa.gov/"
+  #tooltip6="Cool Initiative"
 %}
