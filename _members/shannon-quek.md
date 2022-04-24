@@ -1,6 +1,6 @@
 ---
 name: Shannon Quek
-image: images/member.jpg
+image: images/shannon.jpg
 description: PostDoc
 role: programmer
 aliases:
