@@ -7,7 +7,7 @@ aliases:
   - L. Brettell
   - Brettell
 links:
-  home-page: laurabrettell.com
+  home-page: laura-brettell.com
   email: laura.brettell@lstmed.ac.uk
   orcid: 0000-0002-6050-4804
   twitter: laura_brettell
