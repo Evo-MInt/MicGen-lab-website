@@ -1,7 +1,7 @@
 ---
 name: Eva Heinz
 image: images/member.jpg
-description: Bark Ops Engineer
+description: Team Leader
 role: Principal Investigator
 aliases:
   - E. Heinz
