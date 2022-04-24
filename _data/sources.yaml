@@ -2,7 +2,7 @@
   image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/8/4/mgen000805-f4.gif
   extra-links:
     - type: website
-      link: https://www.lstmed.ac.uk/news-events/news/researchers-from-lstm-complete-analysis-of-wolbachia-bacterial-endosymbiont-strains
+      link: https://www.lstmed.ac.uk
   tags:
     - Wolbachia
     - Anopheles
@@ -16,9 +16,9 @@
       link: https://github.com/greenelab/meta-review
     - type: website
       link: http://manubot.org/
-   tags:
+  tags:
     - AMR
-    - E. coli
+    - E.coli
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
