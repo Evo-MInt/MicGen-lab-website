@@ -9,6 +9,7 @@ aliases:
 links:
   home-page: cintia-cansado-utrilla.com
   email: Cintia.Cansado-Utrilla@lstmed.ac.uk
+  orcid: 0000-0001-6272-4782
   twitter: CintiaCansado
 ---
 
