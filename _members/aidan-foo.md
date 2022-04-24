@@ -1,6 +1,6 @@
 ---
 name: Aidan Foo
-image: images/member.jpg
+image: images/Aidan.jpg
 description: PhD student
 role: phd
 aliases:
