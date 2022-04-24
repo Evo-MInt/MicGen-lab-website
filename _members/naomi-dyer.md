@@ -1,6 +1,6 @@
 ---
 name: Naomi A. Dyer
-image: images/member.jpg
+image: images/1585576598676.jpg
 description: Daphne-Jackson Fellow
 role: programmer
 aliases:
