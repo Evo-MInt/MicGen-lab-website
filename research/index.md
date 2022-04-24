@@ -7,10 +7,15 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our research is deeply rooted in evolutionary biology, which we use to understand pathogens (and their non-pathogenic relatives) as well as beneficial or neutral symbioses (in particular mosquito - microbe interactions). We use computational and molecular biology tools to disentangle these interactions and how they evolved. At the moment, these are some of the main focus areas in the team-
+
+The evolution of high-risk lineages in Gram-negative bacterial pathogens, and the reciprocal interaction of antimicrobial resistance spread and bacterial population dynamics.
+
+The impact acquired vs. chromosomal resistance mechanisms on different opportunistic bacterial pathogen species.
+
+The evolution of bacterial cell surface proteomes and carbohydrate structures for more efficient vaccine design.
+
+Mosquito-microbiome interactions and their impact on vector-borne virus and parasite transmission.
 
 {% include section.html %}
 
