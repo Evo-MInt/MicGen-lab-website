@@ -2,7 +2,7 @@
 name: Laura Brettell
 image: images/member.jpg
 description: PostDoc
-role: programmer
+role: postdoc
 aliases:
   - L. Brettell
   - Brettell
