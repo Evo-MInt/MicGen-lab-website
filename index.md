@@ -92,9 +92,9 @@ We are a friendly and enthusiastic group of people, if you want to know a bit mo
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/GiantMicrobes.jpg"
   link="team"
-  title="Our Team"
+  title="Our Team - Placeholder Image credit GiantMicrobes"
   text=text
 %}
 
