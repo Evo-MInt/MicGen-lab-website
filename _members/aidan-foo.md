@@ -7,7 +7,7 @@ aliases:
   - A. Foo
   - Foo
 links:
-  home-page: aidanfoo.com
+  home-page: aidan-foo.com
   email: Aidan.Foo@lstmed.ac.uk
   twitter: fooheesoon
 ---
