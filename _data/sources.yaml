@@ -11,7 +11,7 @@
 - id: doi:10.1099/mgen.0.000789
   image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/8/4/mgen000789-f4.gif
   tags:
-    - AMR
+    - Antimicrobial Resistance
     - E.coli
 
 - id: doi:10.1099/mgen.0.000778
@@ -65,4 +65,36 @@
   extra-links:
     - type: preprint
       link: 10.1101/2022.01.11.475790
+  tags:
+    - Bacterial Cell Envelope
+
+- id: doi:10.1101/2021.10.08.21264775
+  image: https://www.medrxiv.org/content/medrxiv/early/2021/10/11/2021.10.08.21264775/F1.large.jpg?width=800&height=600&carousel=1
+  extra-links:
+    - type: preprint
+      link: 10.1101/2021.10.08.21264775
+  tags:
+    - Antimicrobial Resistance
+    - E.coli
+    - Klebsiella
+    - sub-saharan Africa
+
+- id: doi:10.1101/2021.10.07.463523
+  image: https://www.biorxiv.org/content/biorxiv/early/2021/10/07/2021.10.07.463523/F4.large.jpg?width=800&height=600&carousel=1
+  extra-links:
+    - type: preprint
+      link: 10.1101/2021.10.07.463523
+  tags:
+    - Antimicrobial Resistance
+    - E.coli
+    - sub-saharan Africa
+      
+- id: doi:10.1101/866897
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/01/16/866897/F6.large.jpg?width=800&height=600&carousel=1
+  extra-links:
+    - type: preprint
+      link: 10.1101/866897
+  tags:
+    - Aedes
+    - Microbiome
 
