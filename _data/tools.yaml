@@ -1,7 +1,7 @@
 - title: MINUUR
   subtitle: MInUUR - Microbial INsight Using Unmapped Reads
   group: featured
-  image: images/photo.jpg
+  image: https://user-images.githubusercontent.com/80700844/148986377-3df4a613-fd43-49e1-9093-cc631a5a0d68.png
   link: https://github.com/aidanfoo96/MINUUR
   description: MInUUR is a snakemake pipeline to extract unmapped whole genome shotgun sequencing reads and utilise a range of metagenomic analyses to characterise host-associated microbes. Orginally, MInUUR was intended to be used for the extraction of mosquito-associated bacterial symbionts, however, its application can be applied to other host-associated WGS data. MInUUR aims to leverage pre-existing WGS data to 'scavenge' for microbial information pertaining to host associated microbiomes - the key advantage being metagenomic reads as inputs to produce genus & species level classifications, functional inference and assembly of metagenome assembled genomes (MAGs).
   repo: aidanfoo96/MINUUR
@@ -42,7 +42,7 @@
 
 - title: rPinecone
   group: more
-  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=6521585_mgen-5-264-g001.jpg
+  image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/5/4/mgen000264-f1.gif
   link: https://github.com/alexwailan/rpinecone
   description: This tool was developed by [Alex Wailan](https://au.linkedin.com/in/dr-alexander-wailan-ph-d-640ab721a) whilst we were both working in the team of [Nick Thomson](https://www.sanger.ac.uk/person/thomson-nicholas/) at the Wellcome Sanger Institute. This R package defines the sub-lineages of a clonal expansion via a phylogenetic tree using a root-to-tip approach.
   repo: alexwailan/rpinecone
