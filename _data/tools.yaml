@@ -8,13 +8,13 @@
   tags:
     - software
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: E. coli genome resource
+  subtitle: A highly quality-controlled collection of E. coli genomes ready for species-wide analyses.
+  group: more
+  image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/7/2/mgen000499-f1.gif
+  link: https://github.com/ghoresh11/ecoli_genome_collection
+  description: This is a fantastic collection E. coli genomes by my previous PhD student, [Gal Horesh](https://www.linkedin.com/in/galhoresh/?originalSubdomain=uk), whom I was co-supervising whilst I was staff in the team of [Nick Thomson](https://www.sanger.ac.uk/person/thomson-nicholas/) at the Wellcome Sanger Institute. We hope that saves anyone interested a huge amount of time by being able to dive right into analyses rather than sorting out a genome collection!
+  repo: ghoresh11/ecoli_genome_collection
   tags:
     - resource
 
