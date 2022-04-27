@@ -7,41 +7,45 @@
   repo: aidanfoo96/MINUUR
   tags:
     - software
+    - publication
 
 - title: E. coli genome resource
   subtitle: A highly quality-controlled collection of E. coli genomes ready for species-wide analyses.
   group: more
   image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/7/2/mgen000499-f1.gif
   link: https://github.com/ghoresh11/ecoli_genome_collection
-  description: This is a fantastic collection E. coli genomes by my previous PhD student, [Gal Horesh](https://www.linkedin.com/in/galhoresh/?originalSubdomain=uk), whom I was co-supervising whilst I was staff in the team of [Nick Thomson](https://www.sanger.ac.uk/person/thomson-nicholas/) at the Wellcome Sanger Institute. We hope that saves anyone interested a huge amount of time by being able to dive right into analyses rather than sorting out a genome collection!
+  description: This is a fantastic collection E. coli genomes by my previous PhD student, [Gal Horesh](https://uk.linkedin.com/in/galhoresh), whom I was co-supervising whilst I was staff in the team of [Nick Thomson](https://www.sanger.ac.uk/person/thomson-nicholas/) at the Wellcome Sanger Institute. We hope that saves anyone interested a huge amount of time by being able to dive right into analyses rather than sorting out a genome collection!
   repo: ghoresh11/ecoli_genome_collection
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Cool Web App
+- title: Pangenome classification
   group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/7/9/mgen000670-f1.gif
+  link: https://github.com/ghoresh11/twilight
+  description: An analysis workflow to increase the granularity of the accessory genome by taking different evolutionary trends into account; by my previous PhD student, [Gal Horesh](https://www.linkedin.com/in/galhoresh/?originalSubdomain=uk), whom I was co-supervising whilst I was staff in the team of [Nick Thomson](https://www.sanger.ac.uk/person/thomson-nicholas/) at the Wellcome Sanger Institute.
+  repo: ghoresh11/twilight
   tags:
     - software
+    - publication
 
-- title: Cool Web Server
+- title: mGEMS
   group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8743562/bin/mgen-7-0691-g001.jpg
+  link: https://github.com/PROBIC/mGEMS
+  description: This is a project led by [Tommi Maeklin](https://maklin.fi/), who is a PhD student working with [Antti Honkela](https://www.cs.helsinki.fi/u/ahonkela/) at the University of Helsinki and [Jukka Corander](https://www.med.uio.no/imb/english/people/aca/jukkac/) at the University of Oslo. This can be used to analyse a mix of (ideally pre-enriched) different strains of the same species and disentangle their genomes. 
+  repo: PROBIC/mGEMS
   tags:
     - software
+    - publication
+
+- title: rPinecone
+  group: more
+  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=6521585_mgen-5-264-g001.jpg
+  link: https://github.com/alexwailan/rpinecone
+  description: This tool was developed by [Alex Wailan](https://au.linkedin.com/in/dr-alexander-wailan-ph-d-640ab721a) whilst we were both working in the team of [Nick Thomson](https://www.sanger.ac.uk/person/thomson-nicholas/) at the Wellcome Sanger Institute. This R package defines the sub-lineages of a clonal expansion via a phylogenetic tree using a root-to-tip approach.
+  repo: alexwailan/rpinecone
+  tags:
+    - software
+    - publication
