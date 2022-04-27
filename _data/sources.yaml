@@ -21,6 +21,7 @@
     - Klebsiella
     - Sub-saharan Africa
     - Surface Polysaccharides
+    - Vaccine Targets
     
 - id: doi:10.1371/journal.pgph.0000160
   image: https://www.lstmed.ac.uk/sites/default/files/styles/mc-580-16x9-node/public/content/news-articles/images/image_0_0_0.png?itok=Kw5zGK1k
@@ -31,12 +32,14 @@
   tags:
     - Research Integrity
     - Parachute Research
+    - Review/Editorial
     
 - id: doi:10.1099/mgen.0.000722
   image: https://www.lstmed.ac.uk/sites/default/files/styles/mc-580-16x9-node/public/content/news-articles/images/image_0_0_0.png?itok=Kw5zGK1k
   tags:
     - Research Integrity
     - Parachute Research
+    - Review/Editorial
     
 - id: doi:10.1371/journal.pgen.1009970
   image: https://journals.plos.org/plosgenetics/article/figure/image?size=medium&id=10.1371/journal.pgen.1009970.g004
@@ -67,6 +70,7 @@
       link: 10.1101/2022.01.11.475790
   tags:
     - Bacterial Cell Envelope
+    - Resource
 
 - id: doi:10.1101/2021.10.08.21264775
   image: https://www.medrxiv.org/content/medrxiv/early/2021/10/11/2021.10.08.21264775/F1.large.jpg?width=800&height=600&carousel=1
@@ -77,7 +81,8 @@
     - Antimicrobial Resistance
     - E.coli
     - Klebsiella
-    - sub-saharan Africa
+    - Sub-saharan Africa
+    - Genome Epidemiology
 
 - id: doi:10.1101/2021.10.07.463523
   image: https://www.biorxiv.org/content/biorxiv/early/2021/10/07/2021.10.07.463523/F4.large.jpg?width=800&height=600&carousel=1
@@ -87,7 +92,7 @@
   tags:
     - Antimicrobial Resistance
     - E.coli
-    - sub-saharan Africa
+    - Sub-saharan Africa
       
 - id: doi:10.1101/866897
   image: https://www.biorxiv.org/content/biorxiv/early/2020/01/16/866897/F6.large.jpg?width=800&height=600&carousel=1
@@ -97,4 +102,144 @@
   tags:
     - Aedes
     - Microbiome
+    
+- id: doi:10.1099/mgen.0.000703
+  image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/7/11/mgen000703-f5.gif
+  tags:
+    - Antimicrobial Resistance
+    - Sub-saharan Africa
+    - Klebsiella
+    - Genome Epidemiology
 
+- id: doi:10.1099/mgen.0.000691
+  image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/7/11/mgen000691-f1.gif
+  tags:
+    - Method
+
+- id: doi:10.1099/mgen.0.000670
+  image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/7/9/mgen000670-f1.gif
+  tags:
+    - Method
+    - Resource
+    - E. coli
+    
+- id: doi:10.1093/cid/ciab745
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/cid/PAP/10.1093_cid_ciab745/2/m_ciab745f0002.jpeg?Expires=1653505326&Signature=3WYkOFJYHWBIoVauZ~rVs~XsP7CymwKQCMNV0mowe1RvLdA0oQHWGt~zLWMNpr0vmQUIkam-Dz-0hgVBfkDfL9hXAAq0z3JSinXaJ2PAI~~J0rucPDfjMxZO6yxAI5v3AGMOiHH46Zy4VS90QXkzsTzET-Ly6H31oiNKyLgxNODfvMkJeMWn0Wcvxg5vz67utnWEg3ZOiROVnrPbcagPkeLuG4o6cvX7i~QEl~g6gjeUD8ajbC~CcfahK2sEAAvkqDOg5W5gr13rwBqX~bqGRhnfGkc~tzaopOCaTQOgK1dOfEKOSV7y-cP30iwvtP7s8haB2YEPtb9-BaGrAqNb8A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - Typhi
+    - Method
+    - Genome Epidemiology
+    - Sub-saharan Africa
+    
+- id: doi:10.1128/mBio.01480-21
+  image: https://journals.asm.org/cms/10.1128/mBio.01480-21/asset/cf1a8900-8b19-4780-9684-9bebc06e13d2/assets/images/large/mbio.01480-21-f003.jpg
+  tags:
+    - Bacterial Cell Envelope
+    - Surface Proteins
+    
+- id: doi:10.1186/s12879-021-06435-7
+  image: https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06435-7/figures/2
+  tags:
+    - Antimicrobial Resistance
+    - E. coli
+    - Review/Editorial
+
+- id: doi:10.1016/j.cub.2021.03.056
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/79f7da4c-7ea1-4280-8bc1-add2daf2c875/gr2.jpg
+  tags:
+    - Anopheles
+    - Wolbachia
+
+- id: doi:10.1038/s41467-021-21870-5
+  image: https://www.nature.com/articles/s41467-021-21870-5/figures/2
+  tags:
+    - Antimicrobial Resistance
+    - Vaccine Targets
+
+- id: doi:10.1099/mgen.0.000499
+  image: https://www.microbiologyresearch.org/docserver/ahah/fulltext/mgen/7/2/mgen000499-f1_thmb.gif
+  tags:
+    - Method
+    - E. coli
+    - Resource
+    
+- id: doi:10.1038/s41396-020-00763-3
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41396-020-00763-3/MediaObjects/41396_2020_763_Fig1_HTML.png?as=webp
+  tags:
+    - Aedes
+    - Microbiome
+    - Culex
+
+- id: doi:10.7554/eLife.62614
+  image: https://iiif.elifesciences.org/lax/62614%2Felife-62614-fig2-v2.tif/full/1500,/0/default.jpg
+  tags:
+    - Bacterial Cell Envelope
+    - Surface Proteins
+
+- id: doi:10.1093/nar/gkaa198
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/8/10.1093_nar_gkaa198/1/m_gkaa198fig3.jpeg?Expires=1653723390&Signature=4zD6AaYijnU81zleJevt6Av2Zpy~GQgtOy0xTn~yMy~o4oecWoFnyTqeupLoCmRlGSsFe5tA9CrmQXvglFvalgmHVF2AgsZuisO0IqYqOZbaKFWikICN~JjwFlseDVnS0hWGxXz3Wd8jYn50MB6H5SDsoC9RQdygY5wBM-AZRNMBPxPWHyNRquQURk1LOIHYXcjbZTtCpWEUJAxNLhF0mCybNj9XeBDU9OUbWuYpkWLWMuT4u4i6MtBW55WZ~SSDe36tZ3aNZgIfNKJ~B8HjxbyVkulk78PoDqUgwbLVMCt-fIev-ToJF~A0cNfv7L5cy5IGnFenYe6UOrORGNo6hg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - Klebsiella
+    - Resource
+
+- id: doi:10.3389/fmicb.2020.00548
+  image: https://www.frontiersin.org/files/Articles/513234/fmicb-11-00548-HTML-r1/image_m/fmicb-11-00548-g002.jpg
+  tags:
+    - Acinetobacter
+    - Antimicrobial Resistance
+    - Surface Polysaccharides
+    - Vaccine Targets
+    - Immune System
+
+- id: doi:10.1084/jem.20180649
+  image: https://cdn.rupress.org/rup/content_public/journal/jem/217/2/10.1084_jem.20180649/3/m_jem_20180649_fig4.png?Expires=1652996894&Signature=uYb4qFXjqiDYl-REg3J2gpC8euVPb0~9dEs31j9jNS~f4kfEjyyP563AGBp5NpDBg~2eoF~nMPIEnNcuh5AfQPRjtGT1KBAsF-t~Rss19QzFs7v9i1XS4tU9UE6NByMPPEze6iFWaw6FHn13d2Gttd~IswTcnJ3~tMS~Bs6c76-2HxDqbXAakdM0o45sjLxcYDaTAFHldrXsgzR8gUwWDkT-9oExhpaQZcO0kapXruCdjNS0SEdl0ZhHKj9BWmEjvsWgu8Xjz6Kl1o7r1mPUTjjZWy~gCCZFBK-9zdS~T7UxLPCW5ahSZT180CnvX0RV2h-TdQ3JWrzusMdCyoYMqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - Immune System
+    - Resource
+
+- id: doi:10.1371/journal.pntd.0007883
+  image: https://journals.plos.org/plosntds/article/figure/image?size=inline&id=10.1371/journal.pntd.0007883.g001
+  tags:
+    - Aedes
+    - Microbiome
+
+- id: doi:10.1371/journal.pone.0221960
+  image: https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0221960.g001
+  tags:
+    - Antimicrobial Resistance
+    - Klebsiella
+    - E. coli
+    - Enterobacter
+    - Latin America
+
+- id: doi:10.1186/s13059-019-1785-1
+  image: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1785-1/figures/4
+  tags:
+    - Antimicrobial Resistance
+    - Klebsiella
+    - Enterobacter
+    - Genome Epidemiology
+
+- id: doi:10.1038/s41467-019-11844-z
+  image: https://www.nature.com/articles/s41467-019-11844-z/figures/2
+  tags:
+    - Antimicrobial Resistance
+    - Typhimurium
+    - Genome Epidemiology
+    - Sub-saharan Africa
+
+- id: doi:10.1038/s41591-019-0505-4
+  image: https://www.nature.com/articles/s41591-019-0505-4/figures/1
+  tags:
+    - Typhi
+    - Surface Polysaccharides
+    - Vaccine Targets
+    
+- id: doi:10.1099/mgen.0.000266
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6562249/figure/F5
+  tags:
+    - Antimicrobial Resistance
+    - Klebsiella
+    - Latin America
+    - Genome Epidemiology
+    
