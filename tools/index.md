@@ -21,4 +21,4 @@ A lot of our work results in software tools and datasets that might be of intere
 
 ## More
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+{% include list.html component="card" data="tools" filters="group: more" %}
