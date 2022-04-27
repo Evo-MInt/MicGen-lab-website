@@ -49,6 +49,8 @@ defaults:
 collections:
   members:
     output: true
+  topics:
+    output: true
 
 # sass settings
 sass:
