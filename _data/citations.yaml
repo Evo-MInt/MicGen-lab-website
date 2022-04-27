@@ -55,7 +55,7 @@
   - type: website
     link: http://manubot.org/
   tags:
-  - AMR
+  - Antimicrobial Resistance
   - E.coli
 - id: doi:10.1099/mgen.0.000778
   title: Genomic and antigenic diversity of colonizing Klebsiella pneumoniae isolates
@@ -234,3 +234,79 @@
   extra-links:
   - type: preprint
     link: 10.1101/2022.01.11.475790
+  tags:
+  - Bacterial Cell Envelope
+- id: doi:10.1101/2021.10.08.21264775
+  title: Dynamics of gut mucosal colonisation with extended spectrum beta-lactamase
+    producing Enterobacterales in Malawi
+  authors:
+  - Joseph M. Lewis
+  - Madalitso Mphasa
+  - Rachel Banda
+  - Mathew A. Beale
+  - Eva Heinz
+  - Jane Mallewa
+  - Christopher Jewell
+  - Brian Faragher
+  - Nicholas R. Thomson
+  - Nicholas A Feasey
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-10-11'
+  link: https://doi.org/gpz3jd
+  image: https://www.medrxiv.org/content/medrxiv/early/2021/10/11/2021.10.08.21264775/F1.large.jpg?width=800&height=600&carousel=1
+  extra-links:
+  - type: preprint
+    link: 10.1101/2021.10.08.21264775
+  tags:
+  - Antimicrobial Resistance
+  - E.coli
+  - Klebsiella
+  - sub-saharan Africa
+- id: doi:10.1101/2021.10.07.463523
+  title: Genomic analysis of extended-spectrum beta-lactamase (ESBL) producing <i>Escherichia
+    coli</i> colonising adults in Blantyre, Malawi reveals previously undescribed
+    diversity
+  authors:
+  - Joseph M. Lewis
+  - Madalitso Mphasa
+  - Rachel Banda
+  - Mathew A. Beale
+  - Jane Mallewa
+  - Adam P. Roberts
+  - Eva Heinz
+  - Nicholas R. Thomson
+  - Nicholas A Feasey
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-10-07'
+  link: https://doi.org/gpz3jf
+  image: https://www.biorxiv.org/content/biorxiv/early/2021/10/07/2021.10.07.463523/F4.large.jpg?width=800&height=600&carousel=1
+  extra-links:
+  - type: preprint
+    link: 10.1101/2021.10.07.463523
+  tags:
+  - Antimicrobial Resistance
+  - E.coli
+  - sub-saharan Africa
+- id: doi:10.1101/866897
+  title: Gut-associated bacteria invade the midgut epithelium of Aedes aegypti and
+    stimulate innate immunity and suppress Zika virus infection in cells
+  authors:
+  - Shivanand Hegde
+  - Denis Voronin
+  - Aitor Casas-Sanchez
+  - "Miguel A. Salda\xF1a"
+  - Eva Heinz
+  - Alvaro Acosta-Serrano
+  - Vsevolod L. Popov
+  - Ashok K. Chopra
+  - Grant L. Hughes
+  publisher: ''
+  date: '2020-01-16'
+  link: https://doi.org/gh6b7h
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/01/16/866897/F6.large.jpg?width=800&height=600&carousel=1
+  extra-links:
+  - type: preprint
+    link: 10.1101/866897
+  tags:
+  - Aedes
+  - Microbiome
