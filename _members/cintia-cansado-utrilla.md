@@ -13,4 +13,4 @@ links:
   twitter: CintiaCansado
 ---
 
-Cintia is co-supervised by Grant Hughes and Eva Heinz, and is working on mosquito microbiome-host interactions.
+Cintia is co-supervised by [Grant Hughes](https://www.lstmed.ac.uk/about/people/dr-grant-hughes) and Eva Heinz, and is working on mosquito microbiome-host interactions.
