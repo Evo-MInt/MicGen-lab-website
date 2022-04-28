@@ -58,7 +58,7 @@ UK
 {% capture col2 %}
 {%
   include figure.html
-  image="images/MLW_patio.jpeg"
+  image="images/lstm_photo.png"
   caption="LSTM, Liverpool, UK"
 %}
 {% endcapture %}
