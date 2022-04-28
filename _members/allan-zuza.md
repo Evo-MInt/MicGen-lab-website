@@ -11,4 +11,4 @@ links:
   email: allan.zuza@mlw.mw
 ---
 
-Allan is based in Blantyre, Malawi, and has been part of the main Klebsiella projects between Prof. Nick Feasey and myself for the last two years. 
+Allan is based at [MLW](https://www.mlw.mw/) in Blantyre, Malawi, and has been part of the main _Klebsiella_ projects between [Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey) and myself for the last two years. 
