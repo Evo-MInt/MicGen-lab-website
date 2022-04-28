@@ -7,6 +7,7 @@ nav:
 
 # Our lab philosophy
 
+{% include section.html %}
 
 # Mental health
 
