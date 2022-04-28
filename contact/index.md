@@ -48,6 +48,8 @@ Liverpool, L3 5QA
 UK
 {:.center}
 
+{% include section.html %}
+
 {% capture col1 %}
 {%
   include figure.html
