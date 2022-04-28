@@ -61,7 +61,7 @@ UK
 {%
   include figure.html
   image="images/Kisian.jpg"
-  caption="KEMRI-CGHR campus, Kisan, Kenya"
+  caption="KEMRI-CGHR campus, Kisumu, Kenya"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 col3=col3 %}
