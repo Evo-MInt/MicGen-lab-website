@@ -55,11 +55,13 @@ Whilst we are enthusiastic at science, we are also a very friendly and open grou
 
 #### Post Doctoral Researcher
 
-At the moment we do not have open positions, but please keep an eye out on the LSTM vacancies homepage. Here is also a non-exhaustive list of fellowships you might be interested in considering.
+At the moment we do not have open positions, these are also always advertised with the [LSTM vacancies](https://www.lstmed.ac.uk/vacancies). Here is also a non-exhaustive list of fellowships you might be interested in considering; if you might be interested please feel free to get in touch.
 
 - [BBSRC Discovery](https://www.ukri.org/opportunity/bbsrc-discovery-fellowships-2022/)
 - [Wellcome early-career](https://wellcome.org/grant-funding/schemes/early-career-awards)
 - [HFSP](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)
+- [Commonwealth Scholarships](https://cscuk.fcdo.gov.uk/about-us/scholarships/)
+- [Leverhulme](https://www.leverhulme.ac.uk/early-career-fellowships)
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
