@@ -12,4 +12,4 @@ links:
   orcid: 0000-0001-8938-1628
 ---
 
-Sarah is co-supervised by Fabrice Graf, Nick Feasey and Eva Heinz, and is working on tracking AMR bacteria in complex samples.
+Sarah is co-supervised by [Fabrice Graf](https://uk.linkedin.com/in/fabrice-graf-6a05b635), [Joe Lewis](https://orcid.org/0000-0002-3837-5188), [Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey) and Eva Heinz, and is working on an [iiCON](https://www.infectioninnovation.com/)-funded PhD position tracking AMR bacteria in complex samples.
