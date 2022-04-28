@@ -28,7 +28,7 @@ We are very grateful to the [greene lab](https://www.greenelab.com/) for providi
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/Malawi_hike.jpg" %}
+{% include banner.html image="images/banner_bacs.png" %}
 
 {% include section.html %}
 
