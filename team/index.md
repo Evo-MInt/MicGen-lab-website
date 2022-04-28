@@ -45,7 +45,7 @@ If you want to know a bit more about what each of us is doing, please take a loo
 
 [Lucien Dobel-Ober](https://uk.linkedin.com/in/lucien-dobel-ober) Lucien successfully completed his MSc project on "Identification of genomic traits of mosquito midgut associated symbionts" with us in 2021. Lucien will now continue on an MRC/DTP fellowship working with [Grant Hughes](https://www.lstmed.ac.uk/about/people/dr-grant-hughes) and [Philip McCall](https://www.lstmed.ac.uk/about/people/Professor-philip-mccall), congratulations!
 
-{% include section.html background="images/banner (1).png" dark=true%}
+{% include section.html background="images/banner_bacs.png" dark=true%}
 
 Whilst we are enthusiastic at science, we are also a very friendly and open group of people, and always excited to welcome new members; if you might be interested, please take a look below.
 
