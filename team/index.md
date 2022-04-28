@@ -36,9 +36,13 @@ If you want to know a bit more about what each of us is doing, please take a loo
 ## Alumni
 
 [Sean Tomlinson](https://www.researchgate.net/profile/Sean-Tomlinson-2) Sean joined as postdoctoral researcher 2021 to work with [Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey) and myself on our main _Klebsiella_ genomics project.
+
 [Mollie Campbell-Short](https://uk.linkedin.com/in/mollie-campbell-short) Molly successfully completed her MSc project on "Linking genomic and chemical characteristics of _Klebsiella pneumoniae_ to improve understanding of different polysaccharide capsules and their classification" with us in 2020.
+
 [Nina Billows](https://uk.linkedin.com/in/nina-mercedes-billows) Nina successfully completed her MSc project on "An assessment of population structure and efflux pump diversity of _Escherichia coli_ sequence type 131 isolates" with us in 2020. Nina is currently performing her PhD studies at LSHTM, good luck!
+
 [Nicola Fletcher](https://uk.linkedin.com/in/nicola-fletcher) Nikki worked with [Jennifer Lord](https://www.lstmed.ac.uk/about/people/dr-jennifer-lord), [Ian Patterson](https://brocku.ca/mathematics-science/biology/directory/ian-patterson/), [Tom Edwards](https://www.lstmed.ac.uk/about/people/dr-thomas-edwards) and myself on her MSc "Characterising the virome of UK mosquitoes" and completed successfully in 2021. We are very excited that Nikki will continue to work with us later this year on an MRC/DTP fellowship!
+
 [Lucien Dobel-Ober](https://uk.linkedin.com/in/lucien-dobel-ober) Lucien successfully completed his MSc project on "Identification of genomic traits of mosquito midgut associated symbionts" with us in 2021. Lucien will now continue on an MRC/DTP fellowship working with [Grant Hughes](https://www.lstmed.ac.uk/about/people/dr-grant-hughes) and [Philip McCall](https://www.lstmed.ac.uk/about/people/Professor-philip-mccall), congratulations!
 
 {% include section.html background="images/banner.jpg" dark=true%}
