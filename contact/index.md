@@ -58,15 +58,8 @@ UK
 {% capture col2 %}
 {%
   include figure.html
-  image="images/lstm_photo.png"
-  caption="LSTM, Liverpool, UK"
-%}
-{% endcapture %}
-{% capture col3 %}
-{%
-  include figure.html
   image="images/Kisian.jpg"
   caption="KEMRI-CGHR campus, Kisan, Kenya"
 %}
 {% endcapture %}
-{% include three-col.html col1=col1 col2=col2 col3=col3 %}
+{% include two-col.html col1=col1 col2=col2 col3=col3 %}
