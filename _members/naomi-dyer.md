@@ -14,7 +14,7 @@ links:
   
 ---
 
-Naomi is a Daphne Jackson Fellow jointly supervised by Martin Donnelly and Eva Heinz. 
+Naomi is a Daphne Jackson Fellow jointly supervised by [Martin Donnelly](https://www.lstmed.ac.uk/about/people/professor-martin-james-donnelly) and Eva Heinz. 
 Naomi's current research focuses on the cis-regulation of metabolic insecticide resistance related gene expression in Anopheles gambiae using:
 
 1. Allelic imbalance of gene expression to identify cis-regulated genes.
