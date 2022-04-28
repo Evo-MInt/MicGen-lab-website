@@ -57,9 +57,9 @@ Whilst we are enthusiastic at science, we are also a very friendly and open grou
 
 At the moment we do not have open positions, but please keep an eye out on the LSTM vacancies homepage. Here is also a non-exhaustive list of fellowships you might be interested in considering.
 
-- MRC
-- Wellcome
-- HFSP
+- [BBSRC Discovery](https://www.ukri.org/opportunity/bbsrc-discovery-fellowships-2022/)
+- [Wellcome early-career](https://wellcome.org/grant-funding/schemes/early-career-awards)
+- [HFSP](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
