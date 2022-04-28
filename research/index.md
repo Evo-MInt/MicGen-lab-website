@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Our research is deeply rooted in evolutionary biology, which we use to understand pathogens (and their non-pathogenic relatives) as well as beneficial or neutral symbioses (in particular mosquito-microbe interactions). We use computational and molecular biology tools to disentangle these interactions and how they evolved. 
+Our research is approaching interactions between organisms from an evolutionary biology perspective, which we use to understand pathogens (and their non-pathogenic relatives) as well as beneficial or neutral symbioses (in particular mosquito-microbe interactions). We use computational and molecular biology tools to disentangle these interactions and how they evolved. 
 
 At the moment, these are some of the main focus areas in the team:
 
@@ -19,7 +19,7 @@ At the moment, these are some of the main focus areas in the team:
 
 **[Mosquito-microbiome interactions and their impact on vector-borne virus and parasite transmission.](AMR_website)**
 
-**[Wolbachia as a vector control tool.](AMR_website)**
+**[_Wolbachia_ as a vector control tool.](AMR_website)**
 
 {% include section.html %}
 
