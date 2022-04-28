@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is based in the [Liverpool School of Tropical Medicine](https://www.lstmed.ac.uk/) in the Departments of [Vector Biology](https://www.lstmed.ac.uk/research/departments/vector-biology) and [Clinical Sciences](https://www.lstmed.ac.uk/research/departments/clinical-sciences).
-Our team members are currently based in Liverpool, Blantyre (Malawi) and Kisumu (Kenya).
+Our key projects are currently based at [LSTM](https://www.lstmed.ac.uk/) HQ in Liverpool (UK), the [Malawi-Liverpool-Wellcome centre (MLW)](https://www.mlw.mw/) in Blantyre (Malawi) and at [KEMRI-CGHR](https://www.kemri.go.ke/centre-for-global-health-research-cghr-kisumu/) in Kisumu (Kenya).
 
 {%
   include link.html
@@ -51,15 +51,22 @@ UK
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="LSTM Liverpool"
+  image="images/MLW_patio.jpeg"
+  caption="MLW campus, Blantyre, Malawi"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/MLW_patio.jpeg"
+  caption="LSTM, Liverpool, UK"
 %}
 {% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+{% capture col3 %}
+{%
+  include figure.html
+  image="images/Kisian.jpg"
+  caption="KEMRI-CGHR campus, Kisan, Kenya"
+%}
+{% endcapture %}
+{% include three-col.html col1=col1 col2=col2 col3=col3 %}
