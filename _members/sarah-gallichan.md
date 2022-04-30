@@ -1,6 +1,6 @@
 ---
 name: Sarah Gallichan
-image: images/Sarah.jpg
+image: images/Sarah_G.jpg
 description: PhD student
 role: phd
 aliases:
