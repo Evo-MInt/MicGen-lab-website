@@ -13,13 +13,13 @@ At the moment, these are some of the main focus areas in the team:
 
 **[The evolution of high-risk lineages in Gram-negative bacterial pathogens, and the reciprocal interaction of antimicrobial resistance spread and bacterial population dynamics.](AMR_website)**
 
-**[The impact acquired vs. chromosomal resistance mechanisms on different opportunistic bacterial pathogen species.](AMR_website)**
+**[The impact acquired vs. chromosomal resistance mechanisms on different opportunistic bacterial pathogen species.](research/AMR_website)**
 
 **[The evolution of bacterial cell surface proteomes and carbohydrate structures for more efficient vaccine design.](AMR_website)**
 
 **[Mosquito-microbiome interactions and their impact on vector-borne virus and parasite transmission.](AMR_website)**
 
-**[_Wolbachia_ as a vector control tool.](AMR_website)**
+**[_Wolbachia_ as a vector control tool.](research/AMR_website)**
 
 {% include section.html %}
 
