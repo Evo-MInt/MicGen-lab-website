@@ -18,3 +18,11 @@ LSTM is offering several courses to highten awareness and train managers to bett
 As academia can be very frustrating; here are some mental health comics several of us find very helpful to keep us grounded at times; [TheAwkwardYeti](https://theawkwardyeti.com/) (also on [twitter](https://twitter.com/theawkwardyeti)), [BuddyGator](https://www.buddygator.com/) (also on [twitter](https://twitter.com/buddygatorcomic) and [instagram](https://www.instagram.com/buddygatorcomics/)) and of course the wonderful [Dinos](https://dinosandcomics.com/) (also on [twitter](https://twitter.com/dino_comics) and [instagram](https://www.instagram.com/dinosandcomics/)). 
 
 {% include section.html %}
+
+# Activities around Research Integrity and an Anti-Racist Work Environment
+
+Eva is part of the working group on measures against Parachute Research which included workshops and meetings, resulting in the publication of a [consensus statement](doi: 10.1111/anae.15597) proposing the adoption of a reflexivity statement to be added to manuscript submissions. Eva furthermore promoted this in [Microbial Genomics](doi: 10.1099/mgen.0.000722) in her function as editor and initiated a [questionnaire for inclusivity in the society](https://microbiologysociety.org/news/full-news-listing/microbiology-society-survey-parachute-research.html). The Microbiology Society is now working implement this and other changes highlighted in our questionnaire in all its journals.
+
+Together with [Lindsay Troughton]() from the Research Governance office, Eva initiated and is co-chair of the Research Integrity Working Group at LSTM which aims to support implementation of activities on Research Integrity.
+
+{% include section.html %}
