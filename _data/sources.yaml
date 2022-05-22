@@ -138,7 +138,7 @@
     - Surface Proteins
     
 - id: doi:10.1186/s12879-021-06435-7
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8336361/figure/Fig2
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8336361/bin/12879_2021_6435_Fig2_HTML.jpg
   tags:
     - Antimicrobial Resistance
     - E. coli
@@ -213,7 +213,7 @@
     - Latin America
 
 - id: doi:10.1186/s13059-019-1785-1
-  image: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1785-1/figures/4
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6717969/bin/13059_2019_1785_Fig4_HTML.jpg
   tags:
     - Antimicrobial Resistance
     - Klebsiella
@@ -221,7 +221,7 @@
     - Genome Epidemiology
 
 - id: doi:10.1038/s41467-019-11844-z
-  image: https://www.nature.com/articles/s41467-019-11844-z/figures/2
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6753159/bin/41467_2019_11844_Fig2_HTML.jpg
   tags:
     - Antimicrobial Resistance
     - Typhimurium
@@ -229,14 +229,14 @@
     - Sub-saharan Africa
 
 - id: doi:10.1038/s41591-019-0505-4
-  image: https://www.nature.com/articles/s41591-019-0505-4/figures/1
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6892374/bin/41591_2019_505_Fig1_HTML.jpg
   tags:
     - Typhi
     - Surface Polysaccharides
     - Vaccine Targets
     
 - id: doi:10.1099/mgen.0.000266
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6562249/figure/F5
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6562249/bin/mgen-5-266-g001.jpg
   tags:
     - Antimicrobial Resistance
     - Klebsiella
