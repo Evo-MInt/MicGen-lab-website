@@ -35,6 +35,8 @@ If you want to know a bit more about what each of us is doing, please take a loo
 
 ## Alumni
 
+[Louise Cerdeira](https://www.researchgate.net/profile/Louise-Cerdeira) Louise is part of [Martin Donnelly's team](https://www.lstmed.ac.uk/about/people/professor-martin-james-donnelly) and joined us for a few months as postdoctoral researcher in 2022 to work with [Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey) and myself on _Klebsiella_ genomics; and contributed to projects on _Wolbachia_ and MINUUR.
+
 [Sean Tomlinson](https://www.researchgate.net/profile/Sean-Tomlinson-2) Sean joined as postdoctoral researcher 2021 to work with [Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey) and myself on our main _Klebsiella_ genomics project.
 
 [Mollie Campbell-Short](https://uk.linkedin.com/in/mollie-campbell-short) Molly successfully completed her MSc project on "Linking genomic and chemical characteristics of _Klebsiella pneumoniae_ to improve understanding of different polysaccharide capsules and their classification" with us in 2020.
