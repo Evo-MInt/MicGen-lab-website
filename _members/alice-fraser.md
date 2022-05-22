@@ -2,7 +2,7 @@
 name: Alice Fraser
 image: images/Alice.jpg
 description: PhD student
-role: student
+role: phd
 aliases:
   - A. Fraser
   - Fraser
