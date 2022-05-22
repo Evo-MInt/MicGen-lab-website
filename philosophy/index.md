@@ -7,7 +7,7 @@ nav:
 
 # Our lab philosophy
 
-Under construction...
+Eva and Grant are working on this; and as usual, the PIs are holding everything up, bear with us....
 
 {% include section.html %}
 
@@ -23,7 +23,7 @@ As academia can be very frustrating; here are some mental health comics several 
 
 # Activities around Research Integrity and an Inclusive Work Environment
 
-Eva is part of the working group on measures against Parachute Research which included workshops and meetings, resulting in the publication of a [consensus statement](doi: 10.1111/anae.15597) proposing the adoption of a reflexivity statement to be added to manuscript submissions. She furthermore promoted this in [Microbial Genomics](doi: 10.1099/mgen.0.000722) in her function as editor and initiated a [questionnaire for inclusivity in the society](https://microbiologysociety.org/news/full-news-listing/microbiology-society-survey-parachute-research.html). The Microbiology Society is now working implement this and other changes highlighted in our questionnaire in all its journals.
+Eva is part of the working group on measures against Parachute Research which included workshops and meetings, resulting in the publication of a [consensus statement](https://doi.org/10.1111/anae.15597) proposing the adoption of a reflexivity statement to be added to manuscript submissions. She furthermore promoted this in [Microbial Genomics](https://doi.org/10.1099/mgen.0.000722) in her function as editor and initiated a [questionnaire for inclusivity in the society](https://microbiologysociety.org/news/full-news-listing/microbiology-society-survey-parachute-research.html). The Microbiology Society is now working implement this and other changes highlighted in our questionnaire in all its journals.
 
 Together with [Lindsay Troughton]() from the Research Governance office, Eva initiated and is co-chair of the Research Integrity Working Group at LSTM which aims to support implementation of activities on Research Integrity. She was furthermore part of the working group setting up an improved Image Use Policy for LSTM, specifically targeting problematic storytelling like ‘Poverty Porn’ and ‘White Saviour’; and consent for images taken especially from children / vulnerable populations.
 
