@@ -74,7 +74,7 @@ At the moment we do not have open positions, these are also always advertised wi
 
 We are very grateful to our funders, who make all this possible. 
 
-**The Wellcome Trust:** Wellcome SEED Award, 2019-2022. Looking for the Achilles heel: understanding the role of intrinsic and acquired determinants of antimicrobial resistance in the rise and fall of Klebsiella pneumoniae lineages as the first step in exploiting the fitness cost of antimicrobial resistance. 217303/Z/19/Z. (PI Eva Heinz).
+**The Wellcome Trust:** Wellcome SEED Award, 2019-2023. We are very grateful to Wellcome for allowing us several extensions following severe impacts of COVID on this project. Looking for the Achilles heel: understanding the role of intrinsic and acquired determinants of antimicrobial resistance in the rise and fall of Klebsiella pneumoniae lineages as the first step in exploiting the fitness cost of antimicrobial resistance. 217303/Z/19/Z. (PI Eva Heinz).
 
 **Bill & Melinda Gates Foundation:** BMGF, 2020-2022. Sequencing Klebsiella pneumoniae isolates from Chatinkha neonatal unit. INV-005180. (PI [Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey), Co-I Eva Heinz).
 
@@ -82,7 +82,7 @@ We are very grateful to our funders, who make all this possible.
 
 **CDC funding:** CDC CoAg 2021-2026 Advancing Public Health Research in Kenya, to a consortium of KEMRI, Washington State University & LSTM; GH21-003. (Eva Heinz is Co-I & lead of work package 2E, lead PI LSTM [Feiko terKuile](https://www.lstmed.ac.uk/about/people/professor-feiko-ter-kuile)). 
 
-**Daphne-Jackson Trust Fellowship for Naomi Dyer!:** [Naomi Dyer](https://lstm-microbial-genomics.github.io/MicGen-lab-website/members/naomi-dyer.html) successfully competed for a BBSRC-funded [Daphne-Jackson Trust](https://daphnejackson.org/) fellowship sponsored by [Martin Donnelly](https://www.lstmed.ac.uk/about/people/professor-martin-james-donnelly) and Eva; congratulations!
+**Daphne-Jackson Trust Fellowship for Naomi Dyer!:** BBSRC/DJT; 2021-2023. Investigation of cis-regulation of metabolic insecticide resistance related gene expression in Anopheles gambiae using allelic imbalance. [Naomi Dyer](https://lstm-microbial-genomics.github.io/MicGen-lab-website/members/naomi-dyer.html) successfully competed for a BBSRC-funded [Daphne-Jackson Trust](https://daphnejackson.org/) fellowship sponsored by [Martin Donnelly](https://www.lstmed.ac.uk/about/people/professor-martin-james-donnelly) and Eva; congratulations!
 
 {:.center}
 
