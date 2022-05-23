@@ -2,16 +2,13 @@
 
 ## Who is _Wolbachia_, and why is it interesting? ##
 
-_Wolbachia_ is a widespread insect symbiont, and can influence their host population.
+_Wolbachia_ is a widespread insect symbiont, and can influence their host population through a phenomenon called [cytoplasmic incompatibility](https://en.wikipedia.org/wiki/Cytoplasmic_incompatibility). In addition, the World Mosquito program has successfully deployed _Wolbachia_ infection in the host of the Dengue virus and other main human pathogenic viruses, _Aedes aegypti_, which has shown [very exciting results in reduction of Dengue cases](https://www.worldmosquitoprogram.org/en/work/wolbachia-method/how-it-works). A clear related goal would thus be to use _Wolbachia_ in a similar fashion to block _Plasmodium_ infection in _Anopheles gambiae_; however, until recently there has been no evidence of high-density _Wolbachia_ infections in _Anopheles_ - this is where our projects come in!
 
-## The bigger project ##
+## The team ##
 
-We collaborate with Grant Hughes' team internally; and with Tom (LSHTM, UK), Antonio (Cameroon) and Marcel and Charles Wondji (CRID, Cameroon); who are experts in the biology and the entomology of their hosts.
+Our projects around _Wolbachia_ are run jointly with [Grant Hughes](https://www.lstmed.ac.uk/about/people/dr-grant-hughes) at LSTM; and [Thomas Walker](https://www.lshtm.ac.uk/aboutus/people/walker.thomas) (London School of Hygiene & Tropical Medicine (LSHTM), UK); [Antonio Nkonjio](https://www.researchgate.net/profile/Christophe-Antonio-Nkondjio) (Organisation de Coordination pour la lutte contre les Endémies en Afrique Centrale (OCEAC), Cameroon); and [Marcel Sandeu](https://crid-cam.net/scientist/postdocs/dr-marcel-sandeu/) and [Charles Wondji](https://www.lstmed.ac.uk/about/people/professor-charles-wondji) (Centre for Research in Infectious Diseases (CRID), Cameroon); who are experts in the biology and the entomology of the host species we are most intersted in; _Anopheles moucheti_ and _Anopheles demeilloni_.
 
 ## Host-symbiont (co)evolution ##
 
-Our contribution to this team effort is to understand the genome evolution and co-adaptation between host and symbiont. 
+Our contribution to this team effort is to understand the genome evolution and co-adaptation between host and symbiont; and to disentangle why only a part of the respective _Anopheles_ species is infected. This research will also help us to understand why there is no _Wolbachia_ in any part of the _Anopheles gambiae_ species complex, the in many regions still main; and the arguably most-studied; vector for malaria in sub-saharan Africa. Our research team has described the presence of _Wolbachia_ in _Anopheles_ for the first time in a recent [publication](https://europepmc.org/article/ppr/ppr232387); and a follow-up analysis of the _Wolbachia_ genomes has given us [first insights](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000805) "under the hood" of the _Anopheles_ - associated lineages. To understand the system of how these two populations, _Wolbachia_ and _Anopheles_, interact; we however need far larger samples of the genomes of both hosts and bacteria to understand them both on a population rather than individual level - this is the direction our current research is focusing on.
 
-No _Wolbachia_ in _Anopheles gambiae_.
-
-Wellcome Open, Current Biology, MGen paper
