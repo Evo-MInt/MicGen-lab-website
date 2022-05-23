@@ -2,17 +2,13 @@
 
 ## ESKAPE pathogens ##
 
-### _Klebsiella pneumoniae_ ###
-
-### _Enerobacter cloacae_ ###
-
-### _Escherichia coli_ ###
+The majority of our work in the clinical microbiology area is currently focused on _Klebsiella pneumoniae_; which poses the arguably greatest risk for human health in the escalating crisis of antimicrobial resistant opportunistic pathogen infections. Using genomics of longitudinal collections (spanning decades) sampled under the same criteria, we are working on understanding what causes the 'waves' of infections that give a dramatic rise in numbers at times; and why some sequence types are so much more successful whilst a lot of others are also highly resistant but do not lead to hospital-associated outbreaks. The current work is in collaboration with colleagues in Argentina ([Alejandra Corso](https://www.researchgate.net/profile/Alejandra-Corso-2), [Alejandro Petroni](https://www.researchgate.net/profile/Alejandro-Petroni), [Josefina Campo](https://www.researchgate.net/profile/Josefina-Campos-2)), Malawi ([Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey), [Jen Cornick](https://www.mlw.mw/researchers/dr-jen-cornick/), [Patrick Musicha](https://www.drumconsortium.org/dr-patrick-musicha)) and the Sanger ([Nicholas Thomson](https://www.sanger.ac.uk/person/thomson-nicholas/)). We are also working on [computational tools](https://pubmed.ncbi.nlm.nih.gov/34779765/) to facilitate diagnostics; in collaboration with [Jukka Corander](https://www.sanger.ac.uk/external_person/corander-jukka/)(University of Oslo) and [Antti Honkela](https://www.cs.helsinki.fi/u/ahonkela/) (Helsinki University).
 
 ### Typhi and tracking human pathogens ###
 
+Whilst investigating genomes as such is relevant to understand the evolution of pathogens, we also use them as a tracking tool to investigate transmission on fine scale; in particular pathogens such as _Salmonella_ Typhi where the risk source (contaminated water) is known; and we can now use genomics combined with spatial data to [track infections and their reservoirs](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab745/6360448) at maximum resolution in endemic countries such as Malawi in collaboration with our colleagues at MLW in Blantyre. This study was built on a software tool, [Rpinecone](https://pubmed.ncbi.nlm.nih.gov/30920366/), written by [Alex Wailan](https://au.linkedin.com/in/dr-alexander-wailan-ph-d-640ab721a) during his first project of ever using R!
 
-### Old diseases, new resistances - _Salmonella_, Diphteria ###
+### Old diseases, new resistances - _Haemophilus_, Diphteria ###
 
-AMR; Klebs, popgen
+An important topic that needs to be kept in mind and under surveillance are diseases that are often considered 'solved', such as Diphteria or infections with _Haemophilus influenzae_. We have an interest in contributing to research in these areas as every pathogen will find new ways to cause disease; either in the form of [non-typeable _H. influenzae_](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000214) which escapes the widely successful Hib vaccine, or starting to understand the diversity of [re-emerging diseases like Diphteria](https://www.nature.com/articles/s41467-021-21870-5) that coincides with an increased antimicrobial resistance profile of these organism, work done in collaboration with [Gordon Dougan](https://wellcome.org/who-we-are/people/gordon-dougan) and [Ankur Mutreja](https://www.infectiousdisease.cam.ac.uk/directory/dr-ankur-mutreja).  
 
-Malawi and others
