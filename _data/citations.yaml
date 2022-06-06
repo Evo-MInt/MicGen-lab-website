@@ -837,3 +837,29 @@
   - Klebsiella
   - Latin America
   - Genome Epidemiology
+- id: doi:10.1101/2022.05.26.493619
+  title: Vertical and horizontal transmission of cell fusing agent virus in <i>Aedes
+    aegypti</i>
+  authors:
+  - Rhiannon A. E. Logan
+  - Shannon Quek
+  - Joseph N. Muthoni
+  - Anneliese von Eicken
+  - Laura E. Brettell
+  - Enyia R. Anderson
+  - Marcus E.N. Villena
+  - Shivanand Hegde
+  - Grace T. Patterson
+  - Eva Heinz
+  - Grant L. Hughes
+  - Edward I. Patterson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-05-26'
+  link: https://doi.org/gp89cw
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/05/26/2022.05.26.493619/F2.large.jpg
+  extra-links:
+  - type: preprint
+    link: 10.1101/2022.05.26.493619
+  tags:
+  - Insect-specific viruses
+  - Aedes
