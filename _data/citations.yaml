@@ -864,3 +864,25 @@
   tags:
   - Insect-specific viruses
   - Aedes
+- id: doi:10.1186/s12936-022-04176-9
+  title: Multiple Plasmodium falciparum drug resistance polymorphisms identified in
+    a pregnant woman with severe malaria and a concomitant spontaneous abortion in
+    Cross River, Nigeria, West Africa
+  authors:
+  - Mary Aigbiremo Oboh
+  - Fatou Faal
+  - Oluwagbemisola Elizabeth Adeniji
+  - Simon Correa
+  - Anthony Uyimulam Amawu
+  - Ekon Ogban
+  - Eva Heinz
+  - Grant Hughes
+  - Martin M. Meremikwu
+  - Alfred Amambua-Ngwa
+  publisher: Malaria Journal
+  date: '2022-06-03'
+  link: https://doi.org/gqbn3q
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/9164396/bin/12936_2022_4176_Fig1_HTML.jpg
+  tags:
+  - Malaria
+  - Anopheles
