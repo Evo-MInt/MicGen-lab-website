@@ -79,11 +79,14 @@ We are very grateful to our funders, who make all this possible.
 **Bill & Melinda Gates Foundation:** BMGF, 2020-2022. Sequencing Klebsiella pneumoniae isolates from Chatinkha neonatal unit. INV-005180. (PI [Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey), Co-I Eva Heinz).
 
 **UKRI: BBSRC-NSF**, 2020-2025. Bacterial and host genetic factors contributing to microbiome acquisition and homeostasis in mosquitoes. BB/V011278/1. (BBSRC PI Eva Heinz; NSF PI (joint award) [Kerri Coon](https://kcoonlab.bact.wisc.edu/) University of Wisconsin-Madison, Co-I BBSRC [Grant Hughes](https://www.lstmed.ac.uk/about/people/dr-grant-hughes) LSTM).
+
 **BBSRC** International travel award scheme, 2022. Expanding the scope of mosquito-gut microbiome research to incorporate insect-specific viruses. BB/X010929/1. (PI Eva Heinz, Co-RI Laura Brettell; with collaborator [Ian Patterson](https://brocku.ca/mathematics-science/biology/directory/ian-patterson/)).
 
 **CDC funding:** CDC CoAg 2021-2026 Advancing Public Health Research in Kenya, to a consortium of KEMRI, Washington State University & LSTM; GH21-003. (Eva Heinz is Co-I & lead of work package 2E, lead PI LSTM [Feiko terKuile](https://www.lstmed.ac.uk/about/people/professor-feiko-ter-kuile)). 
 
 **Daphne-Jackson Trust Fellowship for Naomi Dyer!:** BBSRC/DJT; 2021-2023. Investigation of cis-regulation of metabolic insecticide resistance related gene expression in Anopheles gambiae using allelic imbalance. [Naomi Dyer](https://lstm-microbial-genomics.github.io/MicGen-lab-website/members/naomi-dyer.html) successfully competed for a BBSRC-funded [Daphne-Jackson Trust](https://daphnejackson.org/) fellowship sponsored by [Martin Donnelly](https://www.lstmed.ac.uk/about/people/professor-martin-james-donnelly) and Eva; congratulations!
+
+**Royal Society** Congratulations to [Jenni Lord](https://www.lstmed.ac.uk/about/people/dr-jennifer-lord) who successfully competed for a Royal Society Research Grant, where Laura, Eva and [Tom Edwards](https://www.lstmed.ac.uk/about/people/dr-thomas-edwards) will join her looking for viromes in local mosquitoes, great job Jenni!
 
 {:.center}
 
