@@ -78,7 +78,8 @@ We are very grateful to our funders, who make all this possible.
 
 **Bill & Melinda Gates Foundation:** BMGF, 2020-2022. Sequencing Klebsiella pneumoniae isolates from Chatinkha neonatal unit. INV-005180. (PI [Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey), Co-I Eva Heinz).
 
-**UKRI:** BBSRC-NSF, 2020-2025. Bacterial and host genetic factors contributing to microbiome acquisition and homeostasis in mosquitoes. V011278/1. (BBSRC PI Eva Heinz; NSF PI (joint award) [Kerri Coon](https://kcoonlab.bact.wisc.edu/) University of Wisconsin-Madison, Co-I BBSRC [Grant Hughes](https://www.lstmed.ac.uk/about/people/dr-grant-hughes) LSTM).
+**UKRI: BBSRC-NSF**, 2020-2025. Bacterial and host genetic factors contributing to microbiome acquisition and homeostasis in mosquitoes. BB/V011278/1. (BBSRC PI Eva Heinz; NSF PI (joint award) [Kerri Coon](https://kcoonlab.bact.wisc.edu/) University of Wisconsin-Madison, Co-I BBSRC [Grant Hughes](https://www.lstmed.ac.uk/about/people/dr-grant-hughes) LSTM).
+**BBSRC** International travel award scheme, 2022. Expanding the scope of mosquito-gut microbiome research to incorporate insect-specific viruses. BB/X010929/1. (PI Eva Heinz, Co-RI Laura Brettell; with collaborator [Ian Patterson](https://brocku.ca/mathematics-science/biology/directory/ian-patterson/)).
 
 **CDC funding:** CDC CoAg 2021-2026 Advancing Public Health Research in Kenya, to a consortium of KEMRI, Washington State University & LSTM; GH21-003. (Eva Heinz is Co-I & lead of work package 2E, lead PI LSTM [Feiko terKuile](https://www.lstmed.ac.uk/about/people/professor-feiko-ter-kuile)). 
 
