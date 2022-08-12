@@ -1,3 +1,14 @@
+- id: doi:10.1101/2022.08.09.503283
+  image: https://user-images.githubusercontent.com/80700844/148986377-3df4a613-fd43-49e1-9093-cc631a5a0d68.png
+  extra-links:
+    - type: preprint
+      link: 10.1101/2022.08.09.503283
+  tags:
+    - Aedes
+    - Microbiome
+    - Method
+    - Resource
+
 - id: doi:10.1099/mgen.0.000805
   image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/8/4/mgen000805-f4.gif
   extra-links:
