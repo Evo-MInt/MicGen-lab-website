@@ -1,2 +1,12 @@
+# Bacterial cell envelope polysaccharides and proteins #
 
-Under construction, more soon....
+## The cell envelope - the bacterial 'handshake' ##
+
+When gram-negative bacteria interact with the environment, everything has to happen via the cell envelope - even secreted cytoplasmic proteins have to pass a secretion machinery that is located in the inner and outer membrane. The cell envelope thus provides us with something like an archive of records who the bacteria interact with; whether it is competing with other bacteria (leading to structures like the type VI secretion system or other bacteria-bacteria warfare machines as for example in [Serratia](https://www.biorxiv.org/content/10.1101/2022.01.11.475790v1)); escaping phage pressure (and thus having high evolutionary pressure to regularly change the polysaccharide structure the phages might evolve to attach to and thus rendering it highly diverse, such as Klebsiella [LPS](https://pubmed.ncbi.nlm.nih.gov/28348868/) and its [capsule](https://pubmed.ncbi.nlm.nih.gov/29618504/); or attaching to host cells (via e.g. [adhesins](https://pubmed.ncbi.nlm.nih.gov/?term=heinz+lithgow) that specifically bind receptors on epithelial cells in the human urogenital tract).
+
+## Why are we interested in them, and what do we do? ##
+
+Understanding the cell envelope is interesting from an [evolutionary](https://pubmed.ncbi.nlm.nih.gov/?term=heinz_e+henderson_i) point of view, and also has very clear practical implications; most notably in the case of opportunistic gram-negative pathogens as vaccine targets and by conferring intrinsic resistance. Our work addresses both of these in collaboration with several colleagues around the globe as we try to combine large-scale genomic data with knowledge of protein evolution, structure and function. Ongoing key research projects include large-scale analyses of Klebsiella and Escherichia coli, both looking for key vaccine targets and to better understand the impact of the cell surface on antimicrobial resistance; some of our key collaborators here are [Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey), [Tom Edwards](https://www.lstmed.ac.uk/about/people/dr-thomas-edwards), [Alex Bateman](https://www.ebi.ac.uk/people/person/alex-bateman/) and [Joe Campo](https://antigendiscovery.com/), currently funded by [the BMGF](https://www.gatesfoundation.org/) and [Wellcome](https://wellcome.org/).
+
+
+
