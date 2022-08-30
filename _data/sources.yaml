@@ -254,11 +254,8 @@
     - Latin America
     - Genome Epidemiology
     
-- id: doi:10.1101/2022.05.26.493619 
+- id: doi:10.1128/aem.01062-22 
   image: https://www.biorxiv.org/content/biorxiv/early/2022/05/26/2022.05.26.493619/F2.large.jpg
-  extra-links:
-    - type: preprint
-      link: 10.1101/2022.05.26.493619
   tags:
     - Insect-specific viruses
     - Aedes
