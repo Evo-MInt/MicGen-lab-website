@@ -74,11 +74,8 @@
     - Bacterial Cell Envelope
     - Surface Proteins
 
-- id: doi:10.1101/2022.01.11.475790
+- id: doi:10.1038/s41467-022-32929-2
   image: https://www.biorxiv.org/content/biorxiv/early/2022/01/11/2022.01.11.475790/F5.large.jpg?width=800&height=600&carousel=1
-  extra-links:
-    - type: preprint
-      link: 10.1101/2022.01.11.475790
   tags:
     - Bacterial Cell Envelope
     - Resource
