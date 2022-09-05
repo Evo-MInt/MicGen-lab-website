@@ -256,9 +256,9 @@
   tags:
   - Bacterial Cell Envelope
   - Resource
-- id: doi:10.1101/2021.10.08.21264775
-  title: Dynamics of gut mucosal colonisation with extended spectrum beta-lactamase
-    producing Enterobacterales in Malawi
+- id: doi:10.1038/s41564-022-01216-7
+  title: Colonization dynamics of extended-spectrum beta-lactamase-producing Enterobacterales
+    in the gut of Malawian adults
   authors:
   - Joseph M. Lewis
   - Madalitso Mphasa
@@ -269,14 +269,11 @@
   - Christopher Jewell
   - Brian Faragher
   - Nicholas R. Thomson
-  - Nicholas A Feasey
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-10-11'
-  link: https://doi.org/gpz3jd
+  - Nicholas A. Feasey
+  publisher: Nature Microbiology
+  date: '2022-09-05'
+  link: https://doi.org/gqrngc
   image: https://www.medrxiv.org/content/medrxiv/early/2021/10/11/2021.10.08.21264775/F1.large.jpg?width=800&height=600&carousel=1
-  extra-links:
-  - type: preprint
-    link: 10.1101/2021.10.08.21264775
   tags:
   - Antimicrobial Resistance
   - E.coli
