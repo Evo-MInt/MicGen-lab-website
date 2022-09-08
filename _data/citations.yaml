@@ -280,6 +280,10 @@
   - Klebsiella
   - Sub-saharan Africa
   - Genome Epidemiology
+  extra-links:
+  - type: journal
+    link: https://www.lstmed.ac.uk/news-events/news/new-lstm-led-research-sheds-light-on-how-antibiotic-use-can-help-drive-drug
+    text: LSTM press release
 - id: doi:10.1101/2021.10.07.463523
   title: Genomic analysis of extended-spectrum beta-lactamase (ESBL) producing <i>Escherichia
     coli</i> colonising adults in Blantyre, Malawi reveals previously undescribed
