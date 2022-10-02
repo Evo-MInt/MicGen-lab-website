@@ -1,8 +1,8 @@
 ---
 name: Vishaal Dhokyia
 image: images/Vish.jpg
-description: Research Assistant
-role: programmer
+description: PhD student
+role: phd
 aliases:
   - V. Dhokiya
   - Dhokiya
