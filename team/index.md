@@ -47,6 +47,10 @@ If you want to know a bit more about what each of us is doing, please take a loo
 
 [Lucien Dobel-Ober](https://uk.linkedin.com/in/lucien-dobel-ober) Lucien successfully completed his MSc project on "Identification of genomic traits of mosquito midgut associated symbionts" with us in 2021. Lucien will now continue on an MRC/DTP fellowship working with [Grant Hughes](https://www.lstmed.ac.uk/about/people/dr-grant-hughes) and [Philip McCall](https://www.lstmed.ac.uk/about/people/Professor-philip-mccall), congratulations!
 
+[Vish Dhokyia](https://twitter.com/vectorvish) Vish worked with us as Research Assistant on mosquito microbiomes and Wolbachia projects. He will now continue on an MRC/DTP fellowship, congratulations! (Supervisors TBD, let's see if [Grant Hughes](https://www.lstmed.ac.uk/about/people/dr-grant-hughes) or myself make the cut...)
+
+[Ralfh Pulmones](https://uk.linkedin.com/in/ralfh-rolex-pulmones-169154151?trk=public_profile_browsemap) Ralfh successfully completed his MSc project on "Whole genome analysis of antibiotic resistance gene mobility in carbapenem-resistant clinical isolates of GC2 _Acinetobacter baumannii_" with us in 2020; and successfully competed for an MRC/DTP PhD position where Ralfh worked with [Thomas Edwards](https://www.lstmed.ac.uk/about/people/dr-thomas-edwards) and myself on resistance mechanisms during the MRes rotations.
+
 {% include section.html background="images/banner_bacs.png" dark=true%}
 
 Whilst we are enthusiastic at science, we are also a very friendly and open group of people, and always excited to welcome new members; if you might be interested, please take a look below.
