@@ -76,21 +76,22 @@ At the moment we do not have open positions, these are also always advertised wi
 
 We are very grateful to our funders, who make all this possible. 
 
-**The Wellcome Trust:** Wellcome SEED Award, 2019-2023. We are very grateful to Wellcome for allowing us several extensions following severe impacts of COVID on this project. Looking for the Achilles heel: understanding the role of intrinsic and acquired determinants of antimicrobial resistance in the rise and fall of Klebsiella pneumoniae lineages as the first step in exploiting the fitness cost of antimicrobial resistance. 217303/Z/19/Z. (PI Eva Heinz).
+**The Wellcome Trust** Wellcome SEED Award, 2019-2023. We are very grateful to Wellcome for allowing us several extensions following severe impacts of COVID on this project. Looking for the Achilles heel: understanding the role of intrinsic and acquired determinants of antimicrobial resistance in the rise and fall of Klebsiella pneumoniae lineages as the first step in exploiting the fitness cost of antimicrobial resistance. 217303/Z/19/Z. (PI Eva Heinz).
 
-**Bill & Melinda Gates Foundation:** BMGF, 2020-2022. Sequencing Klebsiella pneumoniae isolates from Chatinkha neonatal unit. INV-005180. (PI [Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey), Co-I Eva Heinz).
+**Bill & Melinda Gates Foundation** BMGF, 2020-2022. Sequencing Klebsiella pneumoniae isolates from Chatinkha neonatal unit. INV-005180. (PI [Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey), Co-I Eva Heinz).
 
-**UKRI: BBSRC-NSF**, 2020-2025. Bacterial and host genetic factors contributing to microbiome acquisition and homeostasis in mosquitoes. BB/V011278/1. (BBSRC PI Eva Heinz; NSF PI (joint award) [Kerri Coon](https://kcoonlab.bact.wisc.edu/) University of Wisconsin-Madison, Co-I BBSRC [Grant Hughes](https://www.lstmed.ac.uk/about/people/dr-grant-hughes) LSTM).
+**UKRI BBSRC-NSF**, 2020-2025. Bacterial and host genetic factors contributing to microbiome acquisition and homeostasis in mosquitoes. BB/V011278/1. (BBSRC PI Eva Heinz; NSF PI (joint award) [Kerri Coon](https://kcoonlab.bact.wisc.edu/) University of Wisconsin-Madison, Co-I BBSRC [Grant Hughes](https://www.lstmed.ac.uk/about/people/dr-grant-hughes) LSTM).
 
 **BBSRC** International travel award scheme, 2022. Expanding the scope of mosquito-gut microbiome research to incorporate insect-specific viruses. BB/X010929/1. (PI Eva Heinz, Co-RI Laura Brettell; with collaborator [Ian Patterson](https://brocku.ca/mathematics-science/biology/directory/ian-patterson/)).
 
-**CDC funding:** CDC CoAg 2021-2026 Advancing Public Health Research in Kenya, to a consortium of KEMRI, Washington State University & LSTM; GH21-003. (Eva Heinz is Co-I & lead of work package 2E, lead PI LSTM [Feiko terKuile](https://www.lstmed.ac.uk/about/people/professor-feiko-ter-kuile)). 
+**CDC funding** CDC CoAg 2021-2026 Advancing Public Health Research in Kenya, to a consortium of KEMRI, Washington State University & LSTM; GH21-003. (Eva Heinz is Co-I & lead of work package 2E, lead PI LSTM [Feiko terKuile](https://www.lstmed.ac.uk/about/people/professor-feiko-ter-kuile)). 
 
-**Daphne-Jackson Trust Fellowship for Naomi Dyer!:** BBSRC/DJT; 2021-2023. Investigation of cis-regulation of metabolic insecticide resistance related gene expression in Anopheles gambiae using allelic imbalance. [Naomi Dyer](https://lstm-microbial-genomics.github.io/MicGen-lab-website/members/naomi-dyer.html) successfully competed for a BBSRC-funded [Daphne-Jackson Trust](https://daphnejackson.org/) fellowship sponsored by [Martin Donnelly](https://www.lstmed.ac.uk/about/people/professor-martin-james-donnelly) and Eva; congratulations!
+**Daphne-Jackson Trust** Fellowship for Naomi Dyer! BBSRC/DJT; 2021-2023. Investigation of cis-regulation of metabolic insecticide resistance related gene expression in Anopheles gambiae using allelic imbalance. [Naomi Dyer](https://lstm-microbial-genomics.github.io/MicGen-lab-website/members/naomi-dyer.html) successfully competed for a BBSRC-funded [Daphne-Jackson Trust](https://daphnejackson.org/) fellowship sponsored by [Martin Donnelly](https://www.lstmed.ac.uk/about/people/professor-martin-james-donnelly) and Eva; congratulations!
 
-**Royal Society** Research grant, 2022-2023. Congratulations to [Jenni Lord](https://www.lstmed.ac.uk/about/people/dr-jennifer-lord) who successfully competed for a Royal Society Research Grant, where Laura, Eva and [Tom Edwards](https://www.lstmed.ac.uk/about/people/dr-thomas-edwards) will join her looking for viromes in local mosquitoes, great job Jenni!
+**Royal Society** Research grant, 2022-2023. Determining drivers of viral community composition in UK mosquitoes. (PI [Jenni Lord](https://www.lstmed.ac.uk/about/people/dr-jennifer-lord), collaborators [Laura Brettell](https://www.lstmed.ac.uk/about/people/dr-laura-brettell), [Tom Edwards](https://www.lstmed.ac.uk/about/people/dr-thomas-edwards) and Eva Heinz).
 
-**BactiVac** Pump-prime grant, 2023. We are very excited to have received fundinig from the BactiVac network for our work on a protein-based _Klebsiella_ vaccine in collaboration with [Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey) and [Joe Campo](https://antigendiscovery.com/).
+**BactiVac** Pump-prime grant, 2023. Immune signature against _Klebsiella pneumoniae_ proteins in a mother-baby cohort from Blantyre,
+Malawi. (PI Eva Heinz; Co-I [Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey), Co-I [Joe Campo](https://antigendiscovery.com/)).
 
 {:.center}
 
