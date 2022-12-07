@@ -2,7 +2,7 @@
 name: Ananya Hoque
 image: images/Ananya.jpg
 description: Research Associate
-role: phd
+role: programmer
 aliases:
   - A. Hoque
   - Hoque
