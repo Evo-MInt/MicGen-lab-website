@@ -90,5 +90,7 @@ We are very grateful to our funders, who make all this possible.
 
 **Royal Society** Congratulations to [Jenni Lord](https://www.lstmed.ac.uk/about/people/dr-jennifer-lord) who successfully competed for a Royal Society Research Grant, where Laura, Eva and [Tom Edwards](https://www.lstmed.ac.uk/about/people/dr-thomas-edwards) will join her looking for viromes in local mosquitoes, great job Jenni!
 
+**BactiVac** We are very excited to have received a pump-prime grant from the BactiVac network on our work on a protein-based _Klebsiella_ vaccine in collaboration with [Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey) and [Joe Campo](https://antigendiscovery.com/).
+
 {:.center}
 
