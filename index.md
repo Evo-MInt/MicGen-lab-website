@@ -2,9 +2,9 @@
 title: Home
 ---
 
-# Microbial Genomics in Liverpool
+# Microbial Genomics at the Liverpool School of Tropical Medicine
 
-This website gives you an overview of the team of Microbial Genomics in Liverpool, which was born in 2019 when Eva joined LSTM in her first independent position after 10 years of post-doccing and travelling the planet. 
+This website gives you an overview of the team of Microbial Genomics at [LSTM](https://www.lstmed.ac.uk/), which was born in 2019 when Eva joined LSTM in her first independent position after 10 years of post-doccing and travelling the planet. We are a multi-continent team; since 2022, Eva is based full-time at the KEMRI-CGHR campus in Kisumu, Kenya where our team will hopefully grow further soon; whilst Allan Zuza is based at MLW in Blantyre, Malawi; the majority of the team is still based at LSTM HQ in Liverpool, UK. 
 
 We are very grateful to the [greene lab](https://www.greenelab.com/) for providing this easy-to-use template [Lab Website Template](https://github.com/greenelab/lab-website-template), which forms the basis for our website and made our lives a lot easier!
 
