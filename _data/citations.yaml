@@ -1,6 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2023.03.16.532926
+  title: Aedes aegypti gut transcriptomes respond differently to microbiome transplants
+    from field-caught or laboratory-reared mosquitoes.
+  authors:
+  - Shivanand Hegde
+  - Laura E. Brettell
+  - Shannon Quek
+  - Miguel A. Saldana
+  - Kayvan Etebari
+  - Sassan Asgari
+  - Kerri L. Coon
+  - Eva Heinz
+  - Grant Hughes
+  publisher: bioRxiv
+  date: '2023-03-16'
+  link: https://doi.org/grxxjr
+  image: images/Fig1_2023.03.16.532926.png
+  extra-links:
+  - type: preprint
+    link: 10.1101/2023.03.16.532926
+  tags:
+  - Aedes
+  - Microbiome
+  - Resource
 - id: doi:10.1101/2022.08.09.503283
   title: 'MINUUR: Microbial INsight Using Unmapped Reads'
   authors:
@@ -374,6 +398,7 @@
   image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/7/11/mgen000691-f1.gif
   tags:
   - Method
+  - Genome Epidemiology
 - id: doi:10.1099/mgen.0.000670
   title: Different evolutionary trends form the twilight zone of the bacterial pan-genome
   authors:
