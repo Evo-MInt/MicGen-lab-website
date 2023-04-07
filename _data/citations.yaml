@@ -327,9 +327,7 @@
   date: '2021-10-07'
   link: https://doi.org/gpz3jf
   image: https://www.biorxiv.org/content/biorxiv/early/2021/10/07/2021.10.07.463523/F4.large.jpg?width=800&height=600&carousel=1
-  extra-links:
-  - type: preprint
-    link: 10.1101/2021.10.07.463523
+  extra-links: null
   tags:
   - Antimicrobial Resistance
   - E.coli
@@ -351,9 +349,7 @@
   date: '2020-01-16'
   link: https://doi.org/gh6b7h
   image: https://www.biorxiv.org/content/biorxiv/early/2020/01/16/866897/F6.large.jpg?width=800&height=600&carousel=1
-  extra-links:
-  - type: preprint
-    link: 10.1101/866897
+  extra-links: null
   tags:
   - Aedes
   - Microbiome
