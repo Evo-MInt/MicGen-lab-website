@@ -1,3 +1,14 @@
+- title: Microbiome-swap RNAseq
+  subtitle: Analysis of transcriptome data to understand how a mosquito responds to a microbiome transplant
+  group: featured
+  image: https://user-images.githubusercontent.com/80700844/148986377-3df4a613-fd43-49e1-9093-cc631a5a0d68.png
+  link: https://github.com/laura-brettell/microbiome_transplant_RNASeq
+  description: Using microbiome transplant experiments, we asked whether there were differences in transcriptional responses when mosquitoes of different species were used as microbiome donors. We used microbiomes from four different donor species spanning the phylogenetic breadth of the Culicidae, collected either from the laboratory or field. The repository provides the code used to run the analyses (R) and the raw counts table.
+  repo: laura-brettell/microbiome_transplant_RNASeq
+  tags:
+    - resource
+    - publication
+
 - title: MINUUR
   subtitle: MInUUR - Microbial INsight Using Unmapped Reads
   group: featured
