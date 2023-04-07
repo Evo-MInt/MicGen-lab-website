@@ -309,23 +309,24 @@
   - type: journal
     link: https://www.lstmed.ac.uk/news-events/news/new-lstm-led-research-sheds-light-on-how-antibiotic-use-can-help-drive-drug
     text: LSTM press release
-- id: doi:10.1101/2021.10.07.463523
-  title: Genomic analysis of extended-spectrum beta-lactamase (ESBL) producing <i>Escherichia
-    coli</i> colonising adults in Blantyre, Malawi reveals previously undescribed
-    diversity
+- id: url:https://www.biorxiv.org/content/10.1101/2021.10.07.463523v2
+  title: Genomic analysis of extended-spectrum beta-lactamase (ESBL) producing Escherichia
+    coli colonising adults in Blantyre, Malawi reveals previously undescribed diversity
   authors:
   - Joseph M. Lewis
   - Madalitso Mphasa
   - Rachel Banda
   - Mathew A. Beale
   - Jane Mallewa
+  - Catherine Anscome
+  - Allan Zuza
   - Adam P. Roberts
   - Eva Heinz
   - Nicholas R. Thomson
-  - Nicholas A Feasey
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-10-07'
-  link: https://doi.org/gpz3jf
+  - Nicholas A. Feasey
+  publisher: bioRxiv
+  date: '2022-09-15'
+  link: https://www.biorxiv.org/content/10.1101/2021.10.07.463523v2
   image: https://www.biorxiv.org/content/biorxiv/early/2021/10/07/2021.10.07.463523/F4.large.jpg?width=800&height=600&carousel=1
   extra-links: null
   tags:
