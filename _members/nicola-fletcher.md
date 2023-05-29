@@ -1,6 +1,6 @@
 ---
 name: Nicola Fletcher
-image: images/Nikki
+image: images/Nikki.jpg
 description: PhD student
 role: phd
 aliases:
