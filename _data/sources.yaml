@@ -1,3 +1,18 @@
+- id: doi:10.1101/2023.09.26.23296137
+  image: images/Fig5.png
+  tags:
+    - Antimicrobial Resistance
+    - Klebsiella
+    - Sub-saharan Africa
+    - Surface Polysaccharides
+    - Vaccine Targets
+
+- id: doi:10.21203/rs.3.rs-3265990/v1
+  image: images/Fig3_virome.png
+  tags:
+    - virome
+    - Nematodes
+
 - id: doi:10.1101/2023.03.16.532926
   image: images/Fig1_2023.03.16.532926.png
   tags:
