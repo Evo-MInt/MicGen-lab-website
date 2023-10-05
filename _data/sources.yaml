@@ -1,3 +1,12 @@
+- id: doi:10.1101/2023.10.04.560816
+  image: images/Picture 1.png
+  tags:
+    - Aedes
+    - Anopheles
+    - Culex
+    - Microbiome
+    - Resource
+
 - id: doi:10.1101/2023.09.26.23296137
   image: images/Fig5.png
   tags:
