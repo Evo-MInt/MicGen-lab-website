@@ -1,6 +1,44 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2023.10.04.560816
+  title: "Establishment and comparative genomics of a high-quality collection of mosquito-associated\
+    \ bacterial isolates \u2014 MosAIC (Mosquito-Associated Isolate Collection)"
+  authors:
+  - Aidan Foo
+  - Laura E. Brettell
+  - Holly L. Nichols
+  - 2022 UW-Madison Capstone in Microbiology Students
+  - Miguel Medina Munoz
+  - Jessica Lysne
+  - Vishaal Dhokiya
+  - Ananya F. Hoque
+  - Doug E. Brackney
+  - Eric P. Caragata
+  - Michael Hutchinson
+  - Marcelo Jacobs-Lorena
+  - David J. Lampe
+  - Edwige Martin
+  - Claire Valiente Moro
+  - Michael Povelones
+  - Sarah M. Short
+  - Blaire Steven
+  - Jiannong Xu
+  - Timothy D. Paustian
+  - Michelle R. Rondon
+  - Grant L. Hughes
+  - Kerri L. Coon
+  - Eva Heinz
+  publisher: bioRxiv
+  date: '2023-10-04'
+  link: https://doi.org/gstfs2
+  image: images/Picture 1.png
+  tags:
+  - Aedes
+  - Anopheles
+  - Culex
+  - Microbiome
+  - Resource
 - id: doi:10.1101/2023.09.26.23296137
   title: Longitudinal analysis within one hospital in sub-Saharan Africa over 20 years
     reveals repeated replacements of dominant clones of Klebsiella pneumoniae and
