@@ -8,7 +8,6 @@ aliases:
   - N. A. Dyer
   - Dyer
 links:
-  home-page: naomi-dyer.com
   orcid: 0000-0001-8218-4605
   email: naomi.dyer@lstmed.ac.uk
   
