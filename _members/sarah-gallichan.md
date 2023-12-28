@@ -7,7 +7,6 @@ aliases:
   - S. Gallichan
   - Gallichan
 links:
-  home-page: sarah-gallichan.com
   email: Sarah.Gallichan@lstmed.ac.uk
   orcid: 0000-0001-8938-1628
 ---
