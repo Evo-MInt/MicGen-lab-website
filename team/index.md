@@ -35,6 +35,10 @@ If you want to know a bit more about what each of us is doing, please take a loo
 
 ## Alumni
 
+[Ananya Ferdous Hoque](https://uk.linkedin.com/in/ananya-hoque-016705182) Ananya worked with us during 2022/2023 on mosquito microbiomes, and did a fantastic job both supporting that part of our projects, as well as giving our freezer a significant (re)organisation, thank you Ananya! She has now moved on to a PhD scholarship at the University of Edinburgh, we wish her best of luck with her new adventures.
+
+[Laura Brettell](https://salford-repository.worktribe.com/person/1835810/laura-brettell) We were lucky to work with Laura for almost 3 years 2021-2023 as she performed her last post as PDRA and has now started her independent team at Salford University, take a look at her current work there! Laura led several projects and made huge contributions to our findings on mosquito microbiomes.
+
 [Louise Cerdeira](https://www.researchgate.net/profile/Louise-Cerdeira) Louise is part of [Martin Donnelly's team](https://www.lstmed.ac.uk/about/people/professor-martin-james-donnelly) and joined us for a few months as postdoctoral researcher in 2022 contributing to projects on _Wolbachia_ and MINUUR.
 
 [Sean Tomlinson](https://www.researchgate.net/profile/Sean-Tomlinson-2) Sean joined as postdoctoral researcher 2021 to work with [Nick Feasey](https://www.lstmed.ac.uk/about/people/professor-nicholas-feasey) and myself on our main _Klebsiella_ genomics project.
