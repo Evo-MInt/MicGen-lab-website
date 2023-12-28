@@ -1,6 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2023.11.22.568226
+  title: Mechanisms of transcriptional regulation in<i>Anopheles gambiae</i>revealed
+    by allele specific expression
+  authors:
+  - Naomi A. Dyer
+  - Eric R. Lucas
+  - Sanjay C. Nagi
+  - Daniel P. McDermott
+  - Jon H. Brenas
+  - Alistair Miles
+  - Chris S. Clarkson
+  - Henry D. Mawejje
+  - Craig S. Wilding
+  - Marc S. Halfon
+  - Hasiba Asma
+  - Eva Heinz
+  - Martin J. Donnelly
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-11-22'
+  link: https://doi.org/gtbf5f
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/12/15/2023.11.22.568226/F3.medium.gif
+  tags:
+  - Anopheles
+  - Insecticide Resistance
 - id: doi:10.1101/2023.10.04.560816
   title: "Establishment and comparative genomics of a high-quality collection of mosquito-associated\
     \ bacterial isolates \u2014 MosAIC (Mosquito-Associated Isolate Collection)"
