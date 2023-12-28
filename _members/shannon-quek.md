@@ -7,10 +7,8 @@ aliases:
   - S. Quek
   - Quek
 links:
-  home-page: shannonquek.com
   email: shannon.quek@lstmed.ac.uk
   orcid: 0000-0002-1583-9541
-  twitter: SQuek_001
 ---
 
 Shannon is based in [Mark Taylor's](https://www.lstmed.ac.uk/about/people/professor-mark-taylor) and [Grant Hughes'](https://www.lstmed.ac.uk/about/people/dr-grant-hughes) labs working on collaborative projects on insect-specific and nematode viruses between all our teams.
