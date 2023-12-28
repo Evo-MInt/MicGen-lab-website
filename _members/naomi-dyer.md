@@ -1,7 +1,7 @@
 ---
 name: Naomi A. Dyer
 image: images/1585576598676.jpg
-description: Daphne-Jackson Fellow
+description: Dorothy Hodgkin Fellow
 role: programmer
 aliases:
   - N. Dyer
@@ -14,9 +14,11 @@ links:
   
 ---
 
-Naomi is a Daphne Jackson Fellow jointly supervised by [Martin Donnelly](https://www.lstmed.ac.uk/about/people/professor-martin-james-donnelly) and Eva Heinz. 
-Naomi's current research focuses on the cis-regulation of metabolic insecticide resistance related gene expression in Anopheles gambiae using:
+Naomi is a Dorothy Hodgkin Fellow after completing her Daphne-Jackson fellowship (jointly supervised by [Martin Donnelly](https://www.lstmed.ac.uk/about/people/professor-martin-james-donnelly) and Eva Heinz). 
+Naomi's Daphne-Jackson fellowship focused on the cis-regulation of metabolic insecticide resistance related gene expression in Anopheles gambiae using:
 
 1. Allelic imbalance of gene expression to identify cis-regulated genes.
 
 2. Supervised machine learning to predict the cis-regulatory modules controlling gene expression.
+
+She is now building her independent research at LSTM as a Royal Society Dorothy Hodgkin fellow on the career track (=tenure track) scheme, congratulations!!
