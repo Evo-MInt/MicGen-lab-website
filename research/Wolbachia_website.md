@@ -6,7 +6,7 @@ _Wolbachia_ is a widespread insect symbiont, and can influence their host popula
 
 ## The team ##
 
-Our projects around _Wolbachia_ are run jointly with [Grant Hughes](https://www.lstmed.ac.uk/about/people/dr-grant-hughes) at LSTM; and [Thomas Walker](https://www.lshtm.ac.uk/aboutus/people/walker.thomas) (London School of Hygiene & Tropical Medicine (LSHTM), UK); [Antonio Nkonjio](https://www.researchgate.net/profile/Christophe-Antonio-Nkondjio) (Organisation de Coordination pour la lutte contre les Endémies en Afrique Centrale (OCEAC), Cameroon); and [Marcel Sandeu](https://crid-cam.net/scientist/postdocs/dr-marcel-sandeu/) and [Charles Wondji](https://www.lstmed.ac.uk/about/people/professor-charles-wondji) (Centre for Research in Infectious Diseases (CRID), Cameroon); who are experts in the biology and the entomology of the host species we are most intersted in; _Anopheles moucheti_ and _Anopheles demeilloni_.
+Our projects around _Wolbachia_ are run jointly with [Grant Hughes](https://www.lstmed.ac.uk/about/people/dr-grant-hughes) at LSTM; and [Thomas Walker](https://warwick.ac.uk/fac/sci/lifesci/people/twalker) (University of Warwick, UK); [Antonio Nkonjio](https://www.researchgate.net/profile/Christophe-Antonio-Nkondjio) (Organisation de Coordination pour la lutte contre les Endémies en Afrique Centrale (OCEAC), Cameroon); and [Marcel Sandeu](https://crid-cam.net/scientist/postdocs/dr-marcel-sandeu/) and [Charles Wondji](https://www.lstmed.ac.uk/about/people/professor-charles-wondji) (Centre for Research in Infectious Diseases (CRID), Cameroon); who are experts in the biology and the entomology of the host species we are most intersted in; _Anopheles moucheti_ and _Anopheles demeilloni_.
 
 ## Host-symbiont (co)evolution ##
 
