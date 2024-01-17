@@ -1,6 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1136/bmjgh-2023-014743
+  title: 'Authorship reflexivity statements: additional considerations'
+  authors:
+  - Melissa Taylor
+  - Eva Heinz
+  - Mtisunge Gondwe
+  - Refiloe Masekela
+  - Ben Morton
+  - Rose Oronje
+  - Andre Vercueil
+  - Seye Abimbola
+  - Angela Obasi
+  publisher: BMJ Global Health
+  date: '2024-01-01'
+  link: https://doi.org/gtdzkv
+  image: https://www.lstmed.ac.uk/sites/default/files/styles/mc-580-16x9-node/public/content/news-articles/images/image_0_0_0.png?itok=Kw5zGK1k
+  tags:
+  - Research Integrity
+  - Parachute Research
+  - Review/Editorial
 - id: doi:10.1101/2023.11.22.568226
   title: Mechanisms of transcriptional regulation in<i>Anopheles gambiae</i>revealed
     by allele specific expression
