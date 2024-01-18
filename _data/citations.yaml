@@ -1,6 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2024.01.15.24301199
+  title: A high-resolution genomic and phenotypic analysis of resistance evolution
+    of an Escherichia coli strain from a critical care patient treated with piperacillin/tazobactam.
+  authors:
+  - Alice J Fraser
+  - Robert Ball
+  - Daire Cantillon
+  - Laura Brettell
+  - Fabrice E Graf
+  - Joseph M. Lewis
+  - Jon J. van Aartsen
+  - Christopher M. Parry
+  - Eva Heinz
+  - Thomas Edwards
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-01-16'
+  link: https://doi.org/gtd4md
+  image: null
+  tags:
+  - Antimicrobial Resistance
+  - E. coli
 - id: doi:10.1136/bmjgh-2023-014743
   title: 'Authorship reflexivity statements: additional considerations'
   authors:
