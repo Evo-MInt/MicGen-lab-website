@@ -165,9 +165,9 @@
   tags:
   - virome
   - Nematodes
-- id: doi:10.1101/2023.03.16.532926
-  title: <i>Aedes aegypti</i>gut transcriptomes respond differently to microbiome
-    transplants from field-caught or laboratory-reared mosquitoes
+- id: doi:10.1111/1462-2920.16576
+  title: "<i>Aedes aegypti</i> gut transcriptomes respond differently to microbiome\
+    \ transplants from field\u2010caught or laboratory\u2010reared mosquitoes"
   authors:
   - Shivanand Hegde
   - Laura E. Brettell
@@ -178,9 +178,9 @@
   - Kerri L. Coon
   - Eva Heinz
   - Grant L. Hughes
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-03-16'
-  link: https://doi.org/grxxjr
+  publisher: Environmental Microbiology
+  date: '2024-01-08'
+  link: https://doi.org/gtd4nv
   image: images/Fig1_2023.03.16.532926.png
   tags:
   - Aedes
