@@ -1,6 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2024.04.02.24305201
+  title: Optimised methods for the targeted surveillance of extended-spectrum beta-lactamase
+    producing Escherichia coli in human stool
+  authors:
+  - Sarah Gallichan
+  - Sally Forrest
+  - Esther Picton-Barlow
+  - Claudia McKeown
+  - Maria Moore
+  - Eva Heinz
+  - Nicholas A Feasey
+  - Joseph M Lewis
+  - Fabrice E Graf
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-04-03'
+  link: https://doi.org/gtp56t
+  image: images/Gallichan.jpg
+  tags:
+  - Antimicrobial Resistance
+  - E. coli
 - id: doi:10.1101/2024.01.15.24301199
   title: A high-resolution genomic and phenotypic analysis of resistance evolution
     of an Escherichia coli strain from a critical care patient treated with piperacillin/tazobactam.
