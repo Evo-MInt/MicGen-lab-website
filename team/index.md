@@ -35,6 +35,10 @@ If you want to know a bit more about what each of us is doing, please take a loo
 
 ## Alumni
 
+[Naomi Dyer](https://www.linkedin.com/in/vishdhokiya/?originalSubdomain=uk) Naomi successfully applied for her Daphne-Jackson fellowship co-sponsored by [Martin Donnelly](https://www.lstmed.ac.uk/about/people/professor-martin-james-donnelly) and myself, investigating cis-regulatory transcription in _Anopheles_. She then successfully applied for a [Royal Society Dorothy Hodgkins scholarship](https://royalsociety.org/news/2023/10/early-career-researchers-funding-2023/) and started her independent group on LSTM's career track, congratulations Naomi!!!
+
+[Vish Dhokyia](https://www.linkedin.com/in/vishdhokiya/?originalSubdomain=uk) Vish worked with us during 2021/2022 on mosquito microbiomes and got a lot of our work kick-started. He is now wrapping up papers from his year as RA and working hard on his PhD with Grant Hughes, [Tom Walker](https://warwick.ac.uk/fac/sci/lifesci/people/twalker/) and Mark Taylor on _Wolbachia_ in _Anopheles_!
+
 [Ananya Ferdous Hoque](https://uk.linkedin.com/in/ananya-hoque-016705182) Ananya worked with us during 2022/2023 on mosquito microbiomes, and did a fantastic job both supporting that part of our projects, as well as giving our freezer a significant (re)organisation, thank you Ananya! She has now moved on to a PhD scholarship at the University of Edinburgh, we wish her best of luck with her new adventures.
 
 [Laura Brettell](https://salford-repository.worktribe.com/person/1835810/laura-brettell) We were lucky to work with Laura for almost 3 years 2021-2023 as she performed her last post as PDRA and has now started her independent team at Salford University, take a look at her current work there! Laura led several projects and made huge contributions to our findings on mosquito microbiomes.
