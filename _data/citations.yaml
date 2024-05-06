@@ -124,10 +124,11 @@
   - Culex
   - Microbiome
   - Resource
-- id: doi:10.1101/2023.09.26.23296137
-  title: Longitudinal analysis within one hospital in sub-Saharan Africa over 20 years
-    reveals repeated replacements of dominant clones of Klebsiella pneumoniae and
-    stresses the importance to include temporal patterns for vaccine design considerations
+- id: doi:10.1186/s13073-024-01342-3
+  title: "Longitudinal analysis within one hospital in sub-Saharan Africa over 20\_\
+    years reveals repeated replacements of dominant clones of Klebsiella pneumoniae\
+    \ and stresses the importance to include temporal patterns for vaccine design\
+    \ considerations"
   authors:
   - Eva Heinz
   - Oliver Pearse
@@ -137,17 +138,17 @@
   - Patrick Musicha
   - Patriciah Siyabu
   - Edith Tewesa
-  - Fabrice E Graf
+  - Fabrice E. Graf
   - Rebecca Lester
   - Samantha Lissauer
   - Jennifer Cornick
-  - Joseph M Lewis
+  - Joseph M. Lewis
   - Kondwani Kawaza
-  - Nicholas R Thomson
-  - Nicholas A Feasey
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-09-27'
-  link: https://doi.org/gsstrs
+  - Nicholas R. Thomson
+  - Nicholas A. Feasey
+  publisher: Genome Medicine
+  date: '2024-05-06'
+  link: https://doi.org/gts6v9
   image: images/Fig5.png
   tags:
   - Antimicrobial Resistance
