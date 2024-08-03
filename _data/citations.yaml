@@ -1,6 +1,45 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1172/JCI168789
+  title: Human milk antibodies to global pathogens reveal geographic and interindividual
+    variations in IgA and IgG
+  authors:
+  - Joseph J. Campo
+  - Antti E. Seppo
+  - Arlo Z. Randall
+  - Jozelyn Pablo
+  - Chris Hung
+  - Andy Teng
+  - Adam D. Shandling
+  - Johnathon Truong
+  - Amit Oberai
+  - James Miller
+  - Najeeha Talat Iqbal
+  - "Pablo Pe\xF1ataro Yori"
+  - Anna Kaarina Kukkonen
+  - Mikael Kuitunen
+  - L. Beryl Guterman
+  - Shaun K. Morris
+  - Lisa G. Pell
+  - Abdullah Al Mahmud
+  - Girija Ramakrishan
+  - Eva Heinz
+  - Beth D. Kirkpatrick
+  - Abu S.G. Faruque
+  - Rashidul Haque
+  - R. John Looney
+  - Margaret N. Kosek
+  - Erkki Savilahti
+  - Saad B. Omer
+  - Daniel E. Roth
+  - William A. Petri
+  - "Kirsi M. J\xE4rvinen"
+  publisher: Journal of Clinical Investigation
+  date: '2024-06-11'
+  link: https://doi.org/gt5w93
+  image: images/Gallichan.jpg
+  tags: -Antimicrobial Resistance -Vaccine Targets -Surface Proteins
 - id: doi:10.1101/2024.04.02.24305201
   title: Optimised methods for the targeted surveillance of extended-spectrum beta-lactamase
     producing Escherichia coli in human stool
