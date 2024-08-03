@@ -4,7 +4,7 @@ title: Home
 
 # Evolution of Microbial Interactions (Evo-MInt)
 
-This website gives you an overview of the Ev-MInt team, which was born in 2019 when Eva joined the Liverpool School of Tropical Medicine in her first independent position after 10 years of post-doccing and travelling the planet. Since 2024 we are based at the [University of Strathclyde Institute of Pharmacy and Biomedical Sciences](https://www.strath.ac.uk/science/strathclydeinstituteofpharmacybiomedicalsciences/), with collaborations across a wide range of countries across the globe. 
+This website gives you an overview of the Evo-MInt team, which was born in 2019 when Eva joined the Liverpool School of Tropical Medicine in her first independent position after 10 years of post-doccing and travelling the planet. Since 2024 we are based at the [University of Strathclyde Institute of Pharmacy and Biomedical Sciences](https://www.strath.ac.uk/science/strathclydeinstituteofpharmacybiomedicalsciences/), with collaborations across a wide range of countries across the globe. 
 
 We are very grateful to the [greene lab](https://www.greenelab.com/) for providing this easy-to-use template [Lab Website Template](https://github.com/greenelab/lab-website-template), which forms the basis for our website and made our lives a lot easier!
 
