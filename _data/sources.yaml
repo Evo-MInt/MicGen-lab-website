@@ -1,3 +1,10 @@
+- id: doi:10.1172/JCI168789
+  image: images/Gallichan.jpg
+  tags: 
+    -Antimicrobial Resistance
+    -Vaccine Targets
+    -Surface Proteins
+
 - id: doi:10.1101/2024.04.02.24305201
   image: images/Gallichan.jpg
   tags:
