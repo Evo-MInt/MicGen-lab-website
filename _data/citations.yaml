@@ -39,7 +39,10 @@
   date: '2024-06-11'
   link: https://doi.org/gt5w93
   image: images/protein_microarray.jpg
-  tags: -Antimicrobial Resistance -Vaccine Targets -Surface Proteins
+  tags:
+  - Antimicrobial Resistance
+  - Vaccine Targets
+  - Surface Proteins
 - id: doi:10.1101/2024.04.02.24305201
   title: Optimised methods for the targeted surveillance of extended-spectrum beta-lactamase
     producing Escherichia coli in human stool
