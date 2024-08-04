@@ -88,7 +88,7 @@ We are a friendly and enthusiastic group of people, if you want to know a bit mo
 
 {%
   include feature.html
-  image="images/Dik-Dik.jpeg"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
