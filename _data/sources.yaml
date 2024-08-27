@@ -1,3 +1,10 @@
+- id: doi:10.1101/2024.08.26.609643
+  image: images/protein_microarray.jpg
+  tags: 
+    - Antimicrobial Resistance
+    - Sub-saharan Africa
+    - Typhi
+
 - id: doi:10.1172/JCI168789
   image: images/protein_microarray.jpg
   tags: 
