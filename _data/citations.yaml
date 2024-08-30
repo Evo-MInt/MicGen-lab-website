@@ -1,6 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2024.08.26.609643
+  title: An exploration of unusual antimicrobial resistance phenotypes in<i>Salmonella</i>Typhi
+    from Blantyre, Malawi reveals the ongoing role of IncHI1 plasmids
+  authors:
+  - Allan Zuza
+  - Alexander M Wailan
+  - Catherine Anscombe
+  - Nicholas A Feasey
+  - Eva Heinz
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-08-26'
+  link: https://doi.org/gt8d7j
+  image: images/Figure3_Typhi.png
+  tags:
+  - Antimicrobial Resistance
+  - Sub-saharan Africa
+  - Typhi
+  - Resource
 - id: doi:10.1172/JCI168789
   title: Human milk antibodies to global pathogens reveal geographic and interindividual
     variations in IgA and IgG
