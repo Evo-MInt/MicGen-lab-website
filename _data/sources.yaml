@@ -1,3 +1,9 @@
+- id: doi:10.1101/2024.08.28.610121
+  image: images/Fig1.jpeg
+  tags: 
+    - Aedes
+    - Microbiome
+
 - id: doi:10.1101/2024.08.26.609643
   image: images/Figure3_Typhi.png
   tags: 
