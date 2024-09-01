@@ -1,6 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2024.08.28.610121
+  title: Mosquitoes reared in distinct insectaries within an institution in close
+    spatial proximity possess significantly divergent microbiomes
+  authors:
+  - Laura E. Brettell
+  - Ananya F. Hoque
+  - Tara S. Joseph
+  - Vishaal Dhokiya
+  - Emily A. Hornett
+  - Grant L. Hughes
+  - Eva Heinz
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-08-29'
+  link: https://doi.org/gt8snp
+  image: images/Fig1.jpeg
+  tags:
+  - Aedes
+  - Microbiome
 - id: doi:10.1101/2024.08.26.609643
   title: An exploration of unusual antimicrobial resistance phenotypes in<i>Salmonella</i>Typhi
     from Blantyre, Malawi reveals the ongoing role of IncHI1 plasmids
