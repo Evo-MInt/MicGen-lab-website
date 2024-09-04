@@ -234,32 +234,36 @@
   - Sub-saharan Africa
   - Surface Polysaccharides
   - Vaccine Targets
-- id: doi:10.21203/rs.3.rs-3265990/v1
-  title: The RNA virome of human and animal parasitic nematodes
+- id: doi:10.1038/s41564-024-01796-6
+  title: Diverse RNA viruses of parasitic nematodes can elicit antibody responses
+    in vertebrate hosts
   authors:
   - Shannon Quek
   - Amber Hadermann
   - Yang Wu
   - Lander De Coninck
   - Shrilakshmi Hegde
-  - Jordan Boucher
+  - Jordan R. Boucher
   - Jessica Cresswell
   - Ella Foreman
   - Andrew Steven
-  - E. LaCourse
-  - Stephen Ward
+  - E. James LaCourse
+  - Stephen A. Ward
   - Samuel Wanji
-  - Grant Hughes
-  - Edward Patterson
-  - Simon Wagstaff
-  - Joseph Turner
+  - Grant L. Hughes
+  - Edward I. Patterson
+  - Simon C. Wagstaff
+  - Joseph D. Turner
+  - Rhys H. Parry
+  - Alain Kohl
   - Eva Heinz
+  - Kenneth Bentum Otabil
   - Jelle Matthijnssens
   - Robert Colebunders
-  - Mark Taylor
-  publisher: Research Square Platform LLC
-  date: '2023-09-15'
-  link: https://doi.org/gsstrt
+  - Mark J. Taylor
+  publisher: Nature Microbiology
+  date: '2024-09-04'
+  link: https://doi.org/gt9kfb
   image: images/Fig3_virome.png
   tags:
   - virome
