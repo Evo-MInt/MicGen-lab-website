@@ -140,9 +140,9 @@
   - Research Integrity
   - Parachute Research
   - Review/Editorial
-- id: doi:10.1101/2023.11.22.568226
-  title: Mechanisms of transcriptional regulation in<i>Anopheles gambiae</i>revealed
-    by allele specific expression
+- id: doi:10.1098/rspb.2024.1142
+  title: "Mechanisms of transcriptional regulation in\n            <i>Anopheles gambiae</i>\n\
+    \            revealed by allele-specific expression"
   authors:
   - Naomi A. Dyer
   - Eric R. Lucas
@@ -157,9 +157,9 @@
   - Hasiba Asma
   - Eva Heinz
   - Martin J. Donnelly
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-11-22'
-  link: https://doi.org/gtbf5f
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2024-09-01'
+  link: https://doi.org/g3c3ww
   image: https://www.biorxiv.org/content/biorxiv/early/2023/12/15/2023.11.22.568226/F3.medium.gif
   tags:
   - Anopheles
