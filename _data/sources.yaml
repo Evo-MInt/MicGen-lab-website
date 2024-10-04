@@ -1,3 +1,11 @@
+- id: doi:10.1101/2024.09.24.24314145
+  image: images/operon_test.png
+  tags:
+    - Antimicrobial Resistance
+    - Sub-saharan Africa
+    - Vaccine Targets
+    - E. coli
+
 - id: doi:10.1101/2024.08.28.610121
   image: images/Fig1.jpeg
   tags: 
