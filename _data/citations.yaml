@@ -1,6 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2024.09.24.24314145
+  title: High diversity of<i>Escherichia coli</i>causing invasive disease in neonates
+    in Malawi poses challenges for O-antigen based vaccine approach
+  authors:
+  - Oliver Pearse
+  - Allan Zuza
+  - Edith Tewesa
+  - Patricia Siyabuh
+  - Alice J Fraser
+  - Jennifer Cornick
+  - Kondwani Kawaza
+  - Patrick Musicha
+  - Nicholas R Thomson
+  - Nicholas A Feasey
+  - Eva Heinz
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-09-26'
+  link: https://doi.org/g6zb88
+  image: images/operon_test.png
+  tags:
+  - Antimicrobial Resistance
+  - Sub-saharan Africa
+  - Vaccine Targets
+  - E. coli
 - id: doi:10.1101/2024.08.28.610121
   title: Mosquitoes reared in distinct insectaries within an institution in close
     spatial proximity possess significantly divergent microbiomes
