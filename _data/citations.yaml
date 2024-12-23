@@ -43,18 +43,18 @@
   tags:
   - Aedes
   - Microbiome
-- id: doi:10.1101/2024.08.26.609643
-  title: An exploration of unusual antimicrobial resistance phenotypes in<i>Salmonella</i>Typhi
-    from Blantyre, Malawi reveals the ongoing role of IncHI1 plasmids
+- id: doi:10.12688/gatesopenres.16311.1
+  title: An exploration of unusual antimicrobial resistance phenotypes in Salmonella
+    Typhi from Blantyre, Malawi reveals the ongoing role of IncHI1 plasmids
   authors:
   - Allan Zuza
-  - Alexander M Wailan
+  - Alexander M. Wailan
   - Catherine Anscombe
-  - Nicholas A Feasey
+  - Nicholas A. Feasey
   - Eva Heinz
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-08-26'
-  link: https://doi.org/gt8d7j
+  publisher: Gates Open Research
+  date: '2024-12-23'
+  link: https://doi.org/g8wrfx
   image: images/Figure3_Typhi.png
   tags:
   - Antimicrobial Resistance
