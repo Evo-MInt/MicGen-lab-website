@@ -1,6 +1,72 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2025.02.14.25322074
+  title: Genomic insights into an outbreak of SHV-98, TEM-1 and DHA-1 producing<i>Klebsiella
+    pneumoniae</i>in a paediatric cardiac unit
+  authors:
+  - Alice J. Fraser
+  - Christopher M. Parry
+  - Beatriz Larru
+  - Lindsay Case
+  - Kate Ball
+  - Caitlin Duggan
+  - Thomas Edwards
+  - Eva Heinz
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-02-20'
+  link: https://doi.org/g9k7k9
+  image: images/AlderHey_overview.jpg
+  tags:
+  - Antimicrobial Resistance
+  - Klebsiella
+  - ampC
+- id: doi:10.1101/2025.02.02.636091
+  title: Mosquito host background influences microbiome-ZIKV interactions in field
+    and laboratory-reared<i>Aedes aegypti</i>
+  authors:
+  - Cintia Cansado-Utrilla
+  - "Miguel A. Salda\xF1a"
+  - George Golovko
+  - Kamil Khanipov
+  - Alex L. Wild
+  - Laura E. Brettell
+  - Scott C. Weaver
+  - Eva Heinz
+  - Grant L. Hughes
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-02-02'
+  link: https://doi.org/g9k7mb
+  image: images/CCU_overview.jpg
+  tags:
+  - Aedes
+  - Microbiome
+- id: doi:10.1101/2025.05.09.25327284
+  title: Multi-species<i>bla</i><sub>NDM</sub>outbreak in multiple tertiary and a
+    primary healthcare facility in Merseyside, UK, driven by a combination of multi-species
+    plasmids and small clonal outbreaks
+  authors:
+  - Caitlin Duggan
+  - Charlotte Brookfield
+  - David Lawrie
+  - Victoria Owen
+  - Timothy Neal
+  - James Cruise
+  - Alice J Fraser
+  - Fabrice E Graf
+  - Daire Cantillon
+  - Joseph M Lewis
+  - Thomas Edwards
+  - Eva Heinz
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-05-11'
+  link: https://doi.org/g9k7mc
+  image: images/Sankey.jpg
+  tags:
+  - Antimicrobial Resistance
+  - Klebsiella
+  - Enterobacter
+  - E. coli
 - id: doi:10.1101/2024.09.24.24314145
   title: High diversity of<i>Escherichia coli</i>causing invasive disease in neonates
     in Malawi poses challenges for O-antigen based vaccine approach
@@ -25,9 +91,9 @@
   - Sub-saharan Africa
   - Vaccine Targets
   - E. coli
-- id: doi:10.1101/2024.08.28.610121
-  title: Mosquitoes reared in distinct insectaries within an institution in close
-    spatial proximity possess significantly divergent microbiomes
+- id: doi:10.1111/1462-2920.70027
+  title: Mosquitoes Reared in Nearby Insectaries at the Same Institution Have Significantly
+    Divergent Microbiomes
   authors:
   - Laura E. Brettell
   - Ananya F. Hoque
@@ -36,9 +102,9 @@
   - Emily A. Hornett
   - Grant L. Hughes
   - Eva Heinz
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-08-29'
-  link: https://doi.org/gt8snp
+  publisher: Environmental Microbiology
+  date: '2025-01-01'
+  link: https://doi.org/g9k7md
   image: images/Fig1.jpeg
   tags:
   - Aedes
@@ -123,23 +189,25 @@
   tags:
   - Antimicrobial Resistance
   - E. coli
-- id: doi:10.1101/2024.01.15.24301199
+- id: doi:10.1099/jmm.0.002018
   title: A high-resolution genomic and phenotypic analysis of resistance evolution
-    of an Escherichia coli strain from a critical care patient treated with piperacillin/tazobactam.
+    of an Escherichia coli strain from a critically unwell patient treated with piperacillin/tazobactam
   authors:
-  - Alice J Fraser
+  - Alice J. Fraser
   - Robert Ball
   - Daire Cantillon
-  - Laura Brettell
-  - Fabrice E Graf
+  - Laura E. Brettell
+  - Fabrice E. Graf
+  - John T. Munnoch
+  - Paul A. Hoskisson
   - Joseph M. Lewis
   - Jon J. van Aartsen
   - Christopher M. Parry
   - Eva Heinz
   - Thomas Edwards
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-01-16'
-  link: https://doi.org/gtd4md
+  publisher: Journal of Medical Microbiology
+  date: '2025-05-19'
+  link: https://doi.org/g9k7mf
   image: images/bbsrc_fig_3.jpg
   tags:
   - Antimicrobial Resistance
