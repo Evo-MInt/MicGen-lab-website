@@ -7,25 +7,25 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is based in the [Liverpool School of Tropical Medicine](https://www.lstmed.ac.uk/) in the Departments of [Vector Biology](https://www.lstmed.ac.uk/research/departments/vector-biology) and [Clinical Sciences](https://www.lstmed.ac.uk/research/departments/clinical-sciences).
-Our key projects are currently based at [LSTM](https://www.lstmed.ac.uk/) HQ in Liverpool (UK), the [Malawi-Liverpool-Wellcome centre (MLW)](https://www.mlw.mw/) in Blantyre (Malawi) and at [KEMRI-CGHR](https://www.kemri.go.ke/centre-for-global-health-research-cghr-kisumu/) in Kisumu (Kenya).
+Our lab is based in the University of Strathclyde, [Strathclyde Institute for Pharmacy & Biomedical Sciences](https://www.strath.ac.uk/science/strathclydeinstituteofpharmacybiomedicalsciences/), Department of [Microbiology](https://www.strath.ac.uk/research/subjects/pharmacybiomedicalsciences/microbiology/). 
+
 
 {%
   include link.html
   type="email"
   icon=""
-  text="eva.heinz@lstmed.ac.uk"
+  text="eva.heinz@strath.ac.uk"
   tooltip=""
-  link="eva.heinz@lstmed.ac.uk"
+  link="eva.heinz@strath.ac.uk"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="+44 151 702 9585"
+  text="+44 141 548 2125"
   tooltip=""
-  link="+44 151 702 9585"
+  link="+44 141 548 2125"
   style="button"
 %}
 {%
@@ -33,8 +33,8 @@ Our key projects are currently based at [LSTM](https://www.lstmed.ac.uk/) HQ in 
   type="address"
   icon=""
   text="Google Maps"
-  tooltip="Our Liverpool location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/Liverpool+School+of+Tropical+Medicine/@53.4085544,-2.969074,15z/data=!4m5!3m4!1s0x0:0x7788194968802ac!8m2!3d53.4085544!4d-2.969074"
+  tooltip="We are right in the middle of beautiful Glasgow!"
+  link="https://www.google.com/maps/place/Strathclyde+Institute+of+Pharmacy+%26+Biomedical+Sciences+(Sipbs)/data=!4m2!3m1!1s0x0:0xd18da347b5a240da?sa=X&ved=1t:2428&ictx=111"
   style="button"
 %}
 {:.center}
@@ -43,8 +43,8 @@ Our key projects are currently based at [LSTM](https://www.lstmed.ac.uk/) HQ in 
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Pembroke Place  
-Liverpool, L3 5QA  
+161 Cathedral Street 
+Glasgow, G4 0RE 
 UK
 {:.center}
 
