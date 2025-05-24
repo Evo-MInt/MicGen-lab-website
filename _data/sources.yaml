@@ -1,3 +1,23 @@
+- id: doi:10.1101/2025.02.14.25322074
+  image: images/AlderHey_overview.jpg
+  tags:
+    - Antimicrobial Resistance
+    - Klebsiella
+
+- id: doi:10.1101/2025.02.02.636091
+  image: images/CCU_overview.jpg
+  tags: 
+    - Aedes
+    - Microbiome
+    
+- id: doi:10.1101/2025.05.09.25327284
+  image: images/Sankey.jpg
+  tags:
+    - Antimicrobial Resistance
+    - Klebsiella
+    - Enterobacter
+    - E. coli
+
 - id: doi:10.1101/2024.09.24.24314145
   image: images/operon_test.png
   tags:
