@@ -1,3 +1,10 @@
+- id: doi:10.5281/zenodo.15742130
+  image: images/technicalnote.png
+  tags:
+    - Klebsiella
+    - Surface Polysaccharides
+    - Vaccine Targets
+
 - id: doi:10.1101/2025.06.16.659891
   image: images/16SWolb.jpg
   tags: 
