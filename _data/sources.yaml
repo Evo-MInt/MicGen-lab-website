@@ -1,3 +1,9 @@
+- id: doi:10.1101/2025.06.16.659891
+  image: images/
+  tags: 
+    - Anopheles
+    - Wolbachia
+
 - id: doi:10.1101/2025.02.14.25322074
   image: images/AlderHey_overview.jpg
   tags:
