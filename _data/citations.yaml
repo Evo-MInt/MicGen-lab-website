@@ -314,21 +314,21 @@
   tags:
   - Anopheles
   - Insecticide Resistance
-- id: doi:10.1101/2023.10.04.560816
-  title: "Establishment and comparative genomics of a high-quality collection of mosquito-associated\
-    \ bacterial isolates \u2014 MosAIC (Mosquito-Associated Isolate Collection)"
+- id: doi:10.1371/journal.pbio.3002897
+  title: 'MosAIC: An annotated collection of mosquito-associated bacteria with high-quality
+    genome assemblies'
   authors:
   - Aidan Foo
   - Laura E. Brettell
   - Holly L. Nichols
-  - 2022 UW-Madison Capstone in Microbiology Students
-  - Miguel Medina Munoz
-  - Jessica Lysne
+  - ' '
+  - "Miguel Medina Mu\xF1oz"
+  - Jessica A. Lysne
   - Vishaal Dhokiya
   - Ananya F. Hoque
   - Doug E. Brackney
   - Eric P. Caragata
-  - Michael Hutchinson
+  - Michael L. Hutchinson
   - Marcelo Jacobs-Lorena
   - David J. Lampe
   - Edwige Martin
@@ -342,9 +342,9 @@
   - Grant L. Hughes
   - Kerri L. Coon
   - Eva Heinz
-  publisher: bioRxiv
-  date: '2023-10-04'
-  link: https://doi.org/gstfs2
+  publisher: PLOS Biology
+  date: '2024-11-15'
+  link: https://doi.org/g9rgxq
   image: images/Picture 1.png
   tags:
   - Aedes
