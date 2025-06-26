@@ -1,6 +1,6 @@
 ---
 name: Laura Chatterley
-image: images/
+image: images/LauraC.jpg
 description: PDRA
 role: programmer
 aliases:
