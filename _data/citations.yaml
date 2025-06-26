@@ -1,6 +1,38 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.5281/zenodo.15742130
+  title: 'Technical Report: Accuracy of Klebsiella pneumoniae capsule serotype predictions
+    from whole genome sequences'
+  authors:
+  - Thomas Stanton
+  - Marie Jacobsen
+  - Pernille Gymoese
+  - Sulagna Basu
+  - Grace Chan
+  - Ziyaad Dangor
+  - Nicholas Feasey
+  - Eva Heinz
+  - Kenneth Iregbu
+  - Shama Khan
+  - Shabir Madhi
+  - Courtney Olwagen
+  - Samir Saha
+  - Senjuti Saha
+  - Kirsty Sands
+  - Timothy Walsh
+  - Rabaab Zahra
+  - Kathryn Holt
+  - Flemming Scheutz
+  - Kelly Wyres
+  publisher: Zenodo
+  date: '2025-06-25'
+  link: https://doi.org/g9rgxm
+  image: images/technicalnote.png
+  tags:
+  - Klebsiella
+  - Surface Polysaccharides
+  - Vaccine Targets
 - id: doi:10.1101/2025.06.16.659891
   title: Optimising the use of Oxford nanopore sequencing technology for detection
     of<i>Wolbachia</i>bacterial endosymbionts in<i>Anopheles</i>mosquitoes
