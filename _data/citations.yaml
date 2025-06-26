@@ -1,6 +1,32 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2025.06.16.659891
+  title: Optimising the use of Oxford nanopore sequencing technology for detection
+    of<i>Wolbachia</i>bacterial endosymbionts in<i>Anopheles</i>mosquitoes
+  authors:
+  - Laura Chatterley
+  - Nicola Hull
+  - Isabel Hughes
+  - Seynabou Sougoufara
+  - Owain Meek
+  - Murat Ceyran
+  - Vishaal Dhokiya
+  - Janvier Bandibabone
+  - Cyprian Adala
+  - Elin Cunningham
+  - Shehu Shagari Awandu
+  - Antonio Nkondjio
+  - Grant Hughes
+  - Eva Heinz
+  - Thomas Walker
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-16'
+  link: https://doi.org/g9rf98
+  image: images/
+  tags:
+  - Anopheles
+  - Wolbachia
 - id: doi:10.1101/2025.02.14.25322074
   title: Genomic insights into an outbreak of SHV-98, TEM-1 and DHA-1 producing<i>Klebsiella
     pneumoniae</i>in a paediatric cardiac unit
