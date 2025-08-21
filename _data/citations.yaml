@@ -1,6 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2025.08.13.25333346
+  title: Extended-Spectrum Beta-Lactamase <i>Klebsiella pneumoniae</i> on a Malawian
+    neonatal unit is amplified by neonates and transmitted by maternal hands, cots
+    and ward surfaces
+  authors:
+  - Oliver Pearse
+  - Rebecca Lester
+  - Allan Zuza
+  - Helen Mangochi
+  - Patricia Siyabu
+  - Edith Tewesa
+  - Thomas Edwards
+  - Nicholas R. Thomson
+  - Kondwani Kawaza
+  - Patrick Musicha
+  - Jen Cornick
+  - Eva Heinz
+  - Nicholas Feasey
+  - Chris Jewell
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-08-15'
+  link: https://doi.org/g9xrz9
+  image: images/F4.large.jpg
+  tags:
+  - Antimicrobial Resistance
+  - Klebsiella
+  - Sub-saharan Africa
 - id: doi:10.5281/zenodo.15742130
   title: 'Technical Report: Accuracy of Klebsiella pneumoniae capsule serotype predictions
     from whole genome sequences'
@@ -125,24 +152,24 @@
   - Klebsiella
   - Enterobacter
   - E. coli
-- id: doi:10.1101/2024.09.24.24314145
-  title: High diversity of<i>Escherichia coli</i>causing invasive disease in neonates
-    in Malawi poses challenges for O-antigen based vaccine approach
+- id: doi:10.1038/s43856-025-01007-1
+  title: High diversity of Escherichia coli causing invasive disease in neonates in
+    Malawi poses challenges for O-antigen based vaccine approach
   authors:
   - Oliver Pearse
   - Allan Zuza
   - Edith Tewesa
-  - Patricia Siyabuh
-  - Alice J Fraser
+  - Patricia Siyabu
+  - Alice J. Fraser
   - Jennifer Cornick
   - Kondwani Kawaza
   - Patrick Musicha
-  - Nicholas R Thomson
-  - Nicholas A Feasey
+  - Nicholas R. Thomson
+  - Nicholas A. Feasey
   - Eva Heinz
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-09-26'
-  link: https://doi.org/g6zb88
+  publisher: Communications Medicine
+  date: '2025-07-18'
+  link: https://doi.org/g9xr2b
   image: images/operon_test.png
   tags:
   - Antimicrobial Resistance
