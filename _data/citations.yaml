@@ -1,6 +1,104 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2025.06.28.25330253
+  title: 'Distribution of capsule and O types in Klebsiella pneumoniae causing neonatal
+    sepsis in Africa and South Asia: meta-analysis of genome-predicted serotype prevalence
+    and potential vaccine coverage'
+  authors:
+  - Thomas D Stanton
+  - Shaun P Keegan
+  - Jabir A Abdulahi
+  - Anne V Amulele
+  - Matthew Bates
+  - Eva Heinz
+  - Yogesh Hooda
+  - Weiming Hu
+  - Kajal Jain
+  - Samiah Kanwar
+  - Rindidzani Magobo
+  - Courtney P Olwagen
+  - John M Tembo
+  - Tolbert Sonda
+  - Jonathan Strysko
+  - Caroline C Tigoi
+  - Sameen Ahmad Amin
+  - Kyle Bittinger
+  - Jennifer Cornick
+  - Ebenezer Foster-Nyarko
+  - Wilson Gumbi
+  - Aneeta Hotwani
+  - Naveed Iqbal
+  - Steven M Jones
+  - Furqan Kabir
+  - Waqasuddin Khan
+  - Chileshe L Musyani
+  - Carolyn M McGann
+  - Varsha Mittal
+  - Ahmed M Moustafa
+  - Patrick Musicha
+  - James CL Mwansa
+  - Moreka L Ndumba
+  - Erkison E Odih
+  - Donwilliams O Omuoyo
+  - Oliver Pearse
+  - Laura T Phillips
+  - Paul J Planet
+  - Aniqa Abdul Rasool
+  - Charlene MC Rodrigues
+  - Kirsty Sands
+  - Arif M Tanmoy
+  - Erin Theiller
+  - Allan M Zuza
+  - Sulagna Basu
+  - Grace J Chan
+  - Kenneth C Iregbu
+  - Jean-Baptiste Mazarati
+  - Semaria Solomon Alemayehu
+  - Timothy R Walsh
+  - Rabaab Zahra
+  - Angela Dramowski
+  - Sombo Fwoloshi
+  - Appiah-Korang Labi
+  - Lola Madrid
+  - Noah Obeng-Nkrumah
+  - David Ojok
+  - Boaz D Wadugu
+  - Andrew C Whitelaw
+  - Adhisivam Bethou
+  - Anudita Bhargava
+  - Atul Jindal
+  - Ruchi N Nanavati
+  - Priyanka S Prasad
+  - Apurba Sastry
+  - Joveria Q Farooqi
+  - Najia Ghanchi
+  - Fyezah Jehan
+  - Erum Khan
+  - Ramesh K Agarwal
+  - Alexander M Aiken
+  - James A Berkley
+  - Susan E Coffin
+  - Nicholas A Feasey
+  - Nelesh P Govender
+  - Davidson H Hamer
+  - Shabir A Madhi
+  - Muhammad Imran Nisar
+  - Samir K Saha
+  - Senjuti Saha
+  - M Jeeva Sankar
+  - Kelly L Wyres
+  - Kathryn E Holt
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-30'
+  link: https://doi.org/g9xr55
+  image: images/graphic.png
+  tags:
+  - Antimicrobial Resistance
+  - Klebsiella
+  - Sub-saharan Africa
+  - Surface Polysaccharides
+  - Vaccine Targets
 - id: doi:10.1101/2025.08.13.25333346
   title: Extended-Spectrum Beta-Lactamase <i>Klebsiella pneumoniae</i> on a Malawian
     neonatal unit is amplified by neonates and transmitted by maternal hands, cots
