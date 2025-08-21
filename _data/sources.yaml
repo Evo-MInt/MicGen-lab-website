@@ -1,3 +1,12 @@
+- id: doi:10.1101/2025.06.28.25330253
+  image: images/graphic.png
+  tags:
+    - Antimicrobial Resistance
+    - Klebsiella
+    - Sub-saharan Africa
+    - Surface Polysaccharides
+    - Vaccine Targets
+
 - id: doi:10.1101/2025.08.13.25333346
   image: images/F4.large.jpg
   tags:
