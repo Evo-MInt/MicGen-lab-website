@@ -1,3 +1,10 @@
+- id: doi:10.1101/2025.08.13.25333346
+  image: images/F4.large.jpg
+  tags:
+    - Antimicrobial Resistance
+    - Klebsiella
+    - Sub-saharan Africa
+    
 - id: doi:10.5281/zenodo.15742130
   image: images/technicalnote.png
   tags:
@@ -32,7 +39,7 @@
     - Enterobacter
     - E. coli
 
-- id: doi:10.1101/2024.09.24.24314145
+- id: doi:10.1038/s43856-025-01007-1
   image: images/operon_test.png
   tags:
     - Antimicrobial Resistance
