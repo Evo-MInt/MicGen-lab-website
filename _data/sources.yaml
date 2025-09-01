@@ -1,3 +1,9 @@
+- id: doi:10.1016/j.str.2025.08.008
+  image: images/FnBamA.jpg
+  tags:
+    - Bacterial Cell Envelope
+    - Surface Proteins
+
 - id: doi:10.1101/2025.06.28.25330253
   image: images/graphic.png
   tags:
